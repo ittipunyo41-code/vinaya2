@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>สรุปพระวินัย ๗ วัน ฉบับย่อ</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Thai:wght@400;500;600;700&family=Noto+Sans+Thai:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff;
+    --ink:#333333;
+    --accent:#0066cc;
+    --gray:#666666;
+    --border:#e0e0e0;
+    --card-bg:#ffffff;
+  }
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:'Noto Sans Thai', sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  /* ===== HERO ===== */
+  header.hero{
+    position:relative;
+    padding: 48px 24px 36px;
+    text-align:center;
+    border-bottom: 1px solid var(--border);
+    background:var(--bg);
+    overflow:hidden;
+  }
+  header.hero::before, header.hero::after{
+    display:none;
+  }
+  header.hero::before{left:26px;}
+  header.hero::after{right:26px; transform:scaleX(-1);}
+  .eyebrow{
+    font-family:'Noto Sans Thai',sans-serif;
+    letter-spacing:.35em;
+    font-size:11px;
+    color:var(--gray);
+    font-weight:600;
+    margin-bottom:12px;
+  }
+  h1.title{
+    font-family:'Noto Serif Thai', serif;
+    font-weight:700;
+    font-size:clamp(28px, 5vw, 44px);
+    margin:0 0 12px;
+    color:var(--ink);
+    line-height:1.25;
+  }
+  h1.title .accent{color:var(--accent);}
+  .subtitle{
+    font-family:'Noto Sans Thai', sans-serif;
+    font-size:15px;
+    color:var(--gray);
+    max-width:640px;
+    margin:0 auto;
+    line-height:1.7;
+  }
+  .hero-meta{
+    margin-top:20px;
+    display:flex;
+    gap:8px;
+    justify-content:center;
+    flex-wrap:wrap;
+  }
+  .hero-meta span{
+    font-size:11px;
+    padding:4px 12px;
+    border:1px solid var(--border);
+    border-radius:999px;
+    color:var(--gray);
+    background:transparent;
+    letter-spacing:.03em;
+  }
+
+  /* ===== MASONRY ===== */
+  main{
+    max-width:1400px;
+    margin:0 auto;
+    padding:32px 16px 60px;
+  }
+  .masonry{
+    column-count:1;
+    column-gap:16px;
+  }
+  @media(min-width:680px){ .masonry{column-count:2;} }
+  @media(min-width:1000px){ .masonry{column-count:3;} }
+  @media(min-width:1320px){ .masonry{column-count:4;} }
+
+  .card{
+    break-inside:avoid;
+    -webkit-column-break-inside:avoid;
+    margin:0 0 16px;
+    background:var(--card-bg);
+    border:1px solid var(--border);
+    border-radius:4px;
+    padding:18px 18px 16px;
+    position:relative;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  }
+  .card::before{
+    content:"";
+    position:absolute;
+    left:0; top:0; bottom:0;
+    width:3px;
+    background:var(--seal, var(--accent));
+    border-radius:4px 0 0 4px;
+  }
+  .seal{
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+    width:32px;height:32px;
+    border-radius:50%;
+    border:2px solid var(--seal, var(--accent));
+    color:var(--seal, var(--accent));
+    font-family:'Noto Serif Thai',serif;
+    font-weight:700;
+    font-size:14px;
+    flex:0 0 auto;
+    background:transparent;
+  }
+  .card-head{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    margin-bottom:12px;
+  }
+  .card-head .tag{
+    font-size:9.5px;
+    letter-spacing:.12em;
+    color:var(--accent);
+    font-weight:700;
+    display:block;
+    margin-bottom:1px;
+  }
+  .card-head h2{
+    font-family:'Noto Sans Thai',sans-serif;
+    font-size:16px;
+    font-weight:600;
+    margin:0;
+    line-height:1.35;
+    color:var(--ink);
+  }
+  .card p.lede{
+    font-size:13px;
+    color:var(--gray);
+    margin:0 0 10px;
+    line-height:1.6;
+    padding-bottom:8px;
+    border-bottom:1px solid var(--border);
+  }
+  .card ul, .card ol{
+    margin:0 0 8px;
+    padding-left:18px;
+  }
+  .card li{
+    font-size:13px;
+    line-height:1.65;
+    margin-bottom:4px;
+    color:var(--ink);
+  }
+  .card li b, .card li strong{color:var(--accent); font-weight:600;}
+  .card .subhead{
+    font-family:'Noto Sans Thai',sans-serif;
+    font-weight:600;
+    font-size:12px;
+    color:var(--accent);
+    margin:12px 0 6px;
+    padding-top:8px;
+    border-top:1px solid var(--border);
+  }
+  .card .subhead:first-of-type{border-top:none; padding-top:0; margin-top:0;}
+  .grid-mini{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:6px 12px;
+    font-size:12px;
+    margin:6px 0 8px;
+  }
+  .grid-mini div{
+    background:#f5f5f5;
+    border-radius:3px;
+    padding:4px 8px;
+    line-height:1.5;
+    color:var(--ink);
+  }
+  .grid-mini b{color:var(--accent);}
+  .note{
+    font-size:11.5px;
+    color:var(--gray);
+    font-style:italic;
+    margin-top:6px;
+  }
+  .pill-row{display:flex;flex-wrap:wrap;gap:5px;margin:6px 0 8px;}
+  .pill{
+    font-size:11px;
+    padding:3px 10px;
+    background:#f0f0f0;
+    color:var(--ink);
+    border-radius:999px;
+    font-weight:500;
+  }
+
+  /* seal colour variants per category */
+  .c-uposatha{--seal:#0066cc;}
+  .c-sima{--seal:#0066cc;}
+  .c-parajika{--seal:#0066cc;}
+  .c-sangha{--seal:#0066cc;}
+  .c-civara{--seal:#0066cc;}
+  .c-kamma{--seal:#0066cc;}
+  .c-misc{--seal:#0066cc;}
+
+  footer{
+    text-align:center;
+    padding:30px 20px 50px;
+    font-size:12px;
+    color:var(--gray);
+    font-family:'Noto Sans Thai',sans-serif;
+  }
+  footer .rule{
+    width:60px;height:1px;background:var(--border);
+    margin:0 auto 12px;
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="eyebrow">คัมภีร์วินัยปิฎก · ฉบับพกพา</div>
+  <h1 class="title">สรุปพระวินัย <span class="accent">๗ วัน</span> ฉบับย่อ</h1>
+  <p class="subtitle">รวมมาติกาและหัวข้อสำคัญจากอุโปสถขันธกะ สีมา ปาราชิกกัณฑ์ สังฆาทิเสส จีวรวรรค และสังฆกรรม เรียบเรียงเป็นใบความรู้สั้น ๆ สำหรับทบทวนก่อนสอบหรือก่อนลงอุโบสถ</p>
+  <div class="hero-meta">
+    <span>อุโปสถกฺขนฺธโก</span>
+    <span>สีมานุชานนา</span>
+    <span>ปาราชิก ๒๔</span>
+    <span>สังฆาทิเสส</span>
+    <span>จีวรวคฺโค</span>
+    <span>สังฆกรรม ๔</span>
+  </div>
+</header>
+
+<main>
+<div class="masonry">
+
+  <!-- 1 -->
+  <div class="card c-uposatha">
+    <div class="card-head"><span class="seal">๑</span><div><span class="tag">อุโปสถขันธกะ</span><h2>ต้นเหตุการบัญญัติอุโบสถ</h2></div></div>
+    <p class="lede">พระเจ้าพิมพิสารทูลขอให้ภิกษุประชุมกันแสดงธรรมในวัน ๑๔, ๑๕ ค่ำ และ ๘ ค่ำ ตามอย่างอัญเดียรถีย์ที่ได้ความเลื่อมใสจากประชาชน</p>
+    <ul>
+      <li><b>อฺญ</b> = อื่น, <b>ติตฺถ</b> = ลัทธิ</li>
+      <li>ทรงอนุญาตให้สวดปาฏิโมกข์เป็นสังฆกรรมแห่งอุโบสถ</li>
+      <li>จตุมหาราชสูตร: ลูก ๑๔ ค่ำ / รา ๑๕ ค่ำ / มาต ๘ ค่ำ / ถา ๕ ค่ำ (มาในอรรถกถาเสนาสนขันธกะ)</li>
+    </ul>
+    <div class="subhead">แสดงธรรมให้ผู้ฟัง</div>
+    <div class="pill-row"><span class="pill">เห็น</span><span class="pill">ทาน</span><span class="pill">อาจ</span><span class="pill">เริง</span></div>
+  </div>
+
+  <!-- 2 -->
+  <div class="card c-uposatha">
+    <div class="card-head"><span class="seal">๒</span><div><span class="tag">ปุพพะ</span><h2>ปุพพกรณ์ ๔ · ปุพพกิจจ์ ๕</h2></div></div>
+    <div class="subhead">ปุพพกรณ์ ๔ (เตรียมสถานที่)</div>
+    <ul><li>สัมมัชชนี · ปทีป · อุทกัง · อาสนะ</li></ul>
+    <div class="subhead">ปุพพกิจจ์ ๕ (ก่อนสวด)</div>
+    <ul><li>ฉันทะ · ปาริสุทธิ · อุตุกขาน · ภิกขุคณนา · โอวาท</li></ul>
+    <div class="subhead">ปัตตกัลลองค์ ๔</div>
+    <ul>
+      <li>วันอุโบสถถูกต้อง</li>
+      <li>ภิกษุครบองค์ประชุม</li>
+      <li>ไม่มีสภาคาบัติ</li>
+      <li>ไม่มีบุคคลควรเว้น (วัชชนียบุคคล)</li>
+    </ul>
+    <p class="note">"ปตฺตกลฺลํ" = ผลของกรรมที่สงฆ์มีกาลถึงพร้อมแล้ว</p>
+  </div>
+
+  <!-- 3 -->
+  <div class="card c-sima">
+    <div class="card-head"><span class="seal">๓</span><div><span class="tag">สีมา</span><h2>สีมาสมบัติ · แม่ลูก ๓ คู่</h2></div></div>
+    <div class="subhead">สีมาสมบัติ</div>
+    <ul>
+      <li><b>มิต</b> – นิมิต</li>
+      <li><b>ส</b> – ปริส (มาฉัน ไม่ค้าน)</li>
+      <li><b>จา</b> – กัมมวาจา</li>
+    </ul>
+    <div class="subhead">แม่ลูก ๓ คู่</div>
+    <div class="grid-mini">
+      <div><b>บ้าน</b> พัทธสีมา (ผูก)</div>
+      <div><b>ป่า</b> 7 อัพพันดร (ไม่ผูก)</div>
+      <div><b>เล-น้ำ-สระ</b> วัก (ไม่ผูก)</div>
+      <div>ย่อ: บ้าน-พัท ป่า-7 เล-วัก</div>
+    </div>
+    <p class="note">ไปผูกสีมาในแม่น้ำ/ทะเล ต้องอาบัติทุกกฏ เพราะไม่ใช่ที่แม่ (นิสสยะ)</p>
+  </div>
+
+  <!-- 4 -->
+  <div class="card c-sima">
+    <div class="card-head"><span class="seal">๔</span><div><span class="tag">สีมา ๑๕</span><h2>ชนิดของสีมาทั้งหมด</h2></div></div>
+    <div class="subhead">พัทธสีมา ๓</div>
+    <ul><li>ขัณ (ขัณฑสีมา) · มา (สมานสีมา/มหาสีมา) · วิป (อวิปปวาสสีมา)</li></ul>
+    <div class="subhead">อพัทธสีมา ๑๐</div>
+    <ul><li>คาม คม คร ชน รัฐ รัฐ คี วาร พันธุ์ กุก</li></ul>
+    <div class="subhead">เนวาพัทธนาพัทธสีมา ๒</div>
+    <ul><li>จาร (ล้อม/ไม่ล้อม) · ลาภ</li></ul>
+    <p class="note">มหาสีมามี ๓ ชื่อ: มหาสีมา / อวิปปวาสสีมา / สมานสังวาสสีมา</p>
+  </div>
+
+  <!-- 5 -->
+  <div class="card c-sima">
+    <div class="card-head"><span class="seal">๕</span><div><span class="tag">สีมา</span><h2>สีมาวิบัติ ๑๑ · นิมิต ๘</h2></div></div>
+    <div class="subhead">สีมาวิบัติ ๑๑ ประการ</div>
+    <ol>
+      <li>เล็ก</li><li>ใหญ่</li><li>ขาด</li><li>เงา</li><li>ไม่มี</li>
+      <li>ภายนอก</li><li>แม่น้ำ</li><li>ทะเล</li><li>สระเกิดเอง</li>
+      <li>คาบเกี่ยว</li><li>ท่วมทับ</li>
+    </ol>
+    <div class="subhead">นิมิต ๘ อย่าง (ที่ใช้ผูกสีมา)</div>
+    <div class="pill-row">
+      <span class="pill">ภูเขา</span><span class="pill">ศิลา</span><span class="pill">ป่า</span>
+      <span class="pill">ต้นไม้</span><span class="pill">ทาง</span><span class="pill">จอมปลวก</span>
+      <span class="pill">แม่น้ำ</span><span class="pill">น้ำ</span>
+    </div>
+  </div>
+
+  <!-- 6 -->
+  <div class="card c-sima">
+    <div class="card-head"><span class="seal">๖</span><div><span class="tag">อุปจารสีมา</span><h2>เขตบ้าน · เขตบอกวัดปริวาส</h2></div></div>
+    <div class="subhead">ฆราทิจตุกกะ (เขตบ้าน)</div>
+    <ul>
+      <li>เรือน – ชายคาน้ำตก</li>
+      <li>จาร – น้ำ, ดง, กวาดรั้ว</li>
+      <li>บ้าน – รั้ว, ดิน</li>
+    </ul>
+    <div class="subhead">อุปจารสีมา ๙ อาการ</div>
+    <p style="font-size:13px;line-height:1.8">เข้า · ลา · วาส · นัต · สา · เส · สัย · แจก · ถิ่น</p>
+    <div class="subhead">เขตบอกวัดปริวาส/มานัต</div>
+    <ul><li>ในวัด: จาร เห็น ฟัง</li><li>นอกวัด: 12 ศอก (เห็น ฟัง)</li></ul>
+  </div>
+
+  <!-- 7 -->
+  <div class="card c-uposatha">
+    <div class="card-head"><span class="seal">๗</span><div><span class="tag">ปาติโมกข์</span><h2>ความหมายคำว่า "ปาติโมกข์"</h2></div></div>
+    <p class="lede">ศีลใดย่อมรักษาคุ้มครองผู้รักษา ย่อมเปลื้อง (โมกฺเขติ) ผู้นั้นให้พ้นจากทุกข์ในอบายและภัยแห่งการติเตียนตน จึงชื่อว่า ปาติโมกข์</p>
+    <ul>
+      <li>ภิกขุปาฏิโมกขุทเทส มี ๕ : นิทาน, ปาราชิก, สังฆาทิเสส, อนิยต, วิตถาร</li>
+      <li>อันตราย ๑๐ อย่าง: รา โจร ไฟ น้ำ มนุษย์ อมนุษย์ งู ร้าย ชี พรหม</li>
+    </ul>
+    <div class="subhead">อุโบสถ ๑๔ ค่ำ</div>
+    <p class="note">มีเฉพาะในเดือนคี่ และมีในปักษ์ที่ ๓ และที่ ๗ ของปี (หนาว-ร้อน-ฝน ฤดูละ 8 อุโบสถ)</p>
+  </div>
+
+  <!-- 8 -->
+  <div class="card c-uposatha">
+    <div class="card-head"><span class="seal">๘</span><div><span class="tag">โอวาทปาฏิโมกข์</span><h2>โอวาทปาฏิโมกข์ ๓ คาถา</h2></div></div>
+    <p class="lede">"สีลญฺจ สุวิสุทฺธํ ทิฏฺฐิ จ อุชุกา" – ศีลบริสุทธิ์ดี ทิฏฐิตรง จึงตั้งอยู่ในศีล เจริญสติปัฏฐาน ๔ โดยวิธี ๓ อย่าง</p>
+    <div class="pill-row">
+      <span class="pill">ขันติ</span><span class="pill">นิพพาน</span><span class="pill">ไม่เบียดเบียน</span>
+      <span class="pill">ไม่ทำบาป</span><span class="pill">ทำกุศล</span><span class="pill">ชำระจิต</span>
+    </div>
+    <div class="subhead">อานิสงส์การให้ทาน</div>
+    <ul>
+      <li>นอกศาสนา: ร้อย-ฉาน, พัน-ศีล, แสน-ศีล, โกฏิ-ฌาน</li>
+      <li>ในศาสนา: มรรค-ผล-โสดา</li>
+    </ul>
+  </div>
+
+  <!-- 9 -->
+  <div class="card c-parajika">
+    <div class="card-head"><span class="seal">๙</span><div><span class="tag">ปฐมปาราชิก</span><h2>เมถุนธรรม · มัค ๓๐</h2></div></div>
+    <div class="subhead">มัค ๓๐ (ทวารที่ล่วง × ผู้เสพ)</div>
+    <p style="font-size:13px">หญิง ๓ ทวาร · โต ๓ ทวาร · ชาย ๒ ทวาร · เฑาะก์ ๒ ทวาร × (มนุษย์ อมนุษย์ สัตว์ดิรัจฉาน) = ๓๐</p>
+    <div class="subhead">กรณีถูกข่มขืน</div>
+    <ul><li>เข้า-ปเสนํ</li><li>แล้ว-ปวิฏฐํ</li><li>หยุด-ฐิตํ (ขณะหลั่ง)</li><li>ชัก-อุทธรณํ</li></ul>
+    <p class="note">พิจารณาความยินดี/ไม่ยินดีในแต่ละขณะ เป็นตัวชี้ปาราชิกหรืออนาบัติ</p>
+    <div class="subhead">ราคะ ๕ (ระดับอาบัติ)</div>
+    <ul><li>ถุล-เมถุนราคะ</li><li>ปล่อย-โมจนัสสาทะ</li><li>จับ-กายสังสัคคะ</li><li>พูดหยาบ / พูดชวนบำเรอกาม</li></ul>
+  </div>
+
+  <!-- 10 -->
+  <div class="card c-parajika">
+    <div class="card-head"><span class="seal">๑๐</span><div><span class="tag">ทุติยปาราชิก</span><h2>อทินนาทาน · อวหาร ๕ ปัญจกะ</h2></div></div>
+    <p class="lede">ภูมิฏฐ์ (ของวางบนพื้น) มีปาราชิก ๕ ทาง: ภาชนะ กำ ยกปลาย ลากพ้น ดื่ม — ส่วนลาย ทิ้ง เผา ใช้ เป็นเพียงทุกกฏ</p>
+    <div class="subhead">ปัญจกะแห่งการลัก (นา-เอ-สา-ปุพ-เถยฺย)</div>
+    <div class="grid-mini">
+      <div><b>ตู้</b> อาทิเยยฺย-อ้างเป็นเจ้าของ</div>
+      <div><b>ชิง</b> หเรยฺย-ขโมยขณะขน</div>
+      <div><b>ฉ้อ</b> อวหเรยฺย-ไม่คืนของฝาก</div>
+      <div><b>เริบ</b> วิโกเปยฺย-ทำให้พร้อมเคลื่อน</div>
+      <div><b>ไหว</b> จาเวยฺย-ทำให้เคลื่อนจากที่</div>
+    </div>
+    <p class="note">พระวินัยธรพึงพิจารณา ๕ ฐาน: เจ้าของ · กาล · ที่ · ราคา · ใช้แล้วหรือไม่</p>
+  </div>
+
+  <!-- 11 -->
+  <div class="card c-parajika">
+    <div class="card-head"><span class="seal">๑๑</span><div><span class="tag">ตติยปาราชิก</span><h2>มนุสสวิคคหะ (ฆ่ามนุษย์)</h2></div></div>
+    <div class="subhead">องค์อาบัติ ๕</div>
+    <ul><li>คน-มนุสสชาติกปาโณ</li><li>รู้-ปาณสัญญิตา</li><li>จิต-วธกจิตตัง</li><li>เพียร-อุปกกโม</li><li>ตาย-มรณะ</li></ul>
+    <div class="subhead">ปโยคะ (วิธีสั่งฆ่า) ๖</div>
+    <p style="font-size:13px">เอง-สาหัตถิกะ / โยน-นิสสัคคิยะ / สั่ง-อาณัตติกะ / วางดัก-ถาวระ / เวทมนตร์-วิชชามยะ</p>
+    <div class="subhead">การวินิจฉัยการสั่งฆ่า ๖</div>
+    <p style="font-size:13px">ถูกคน · ถูกเวลา · ถูกสถานที่ · อาวุธ · อิริยาบถ · กิริยาวิเศษ</p>
+  </div>
+
+  <!-- 12 -->
+  <div class="card c-parajika">
+    <div class="card-head"><span class="seal">๑๒</span><div><span class="tag">ปาราชิก ๒๔</span><h2>ปาราชิกทั้งหมด (๘+๑๑+๕)</h2></div></div>
+    <div class="grid-mini" style="grid-template-columns:1fr 1fr 1fr;">
+      <div><b>8</b>: เสพ ลัก ฆ่า อวด จับ ปิด ตาม แปด</div>
+      <div><b>5</b>: เดาะ เถย รีด ฉาน กรรม5</div>
+      <div><b>11</b>: นี ยาว อ่อน อม นั่ง</div>
+    </div>
+    <p class="note">ข้อ ๑–๔ ทั่วไปแก่ภิกษุ-ภิกษุณี ส่วนที่เหลือเป็นอสาธารณบัญญัติเฉพาะภิกษุณี (อัฏฐารสวัตถุกาทิ)</p>
+  </div>
+
+  <!-- 13 -->
+  <div class="card c-parajika">
+    <div class="card-head"><span class="seal">๑๓</span><div><span class="tag">สังฆาทิเสส</span><h2>ข้อ ๑–๒ · ราคะ ๕ · องค์อาบัติ</h2></div></div>
+    <div class="subhead">สังฆาทิเสสข้อ ๑ (ปล่อยสุกกะ)</div>
+    <ul><li>แข็ง 5: คะ หนัก เบา ลม หนอน</li><li>ประสงค์ 10: โรค สุข ยา ทาน บุญ ยัญ สวรรค์ พืช ลอง เล่น</li></ul>
+    <div class="subhead">ข้อ ๒ (จับต้องกาย)</div>
+    <ul><li>คลุกคลี (สัมผัส-เห็น-ฟัง-พูด-ใช้-กาย)</li><li>องค์อาบัติ: หญิง-รู้-ราคะ-พยายาม-ถึงความสัมผัส</li></ul>
+    <p class="note">สังฆาทิเสโส = อาบัติที่ต้องอาศัยสงฆ์ทั้งเบื้องต้นและเบื้องปลายในการออก</p>
+  </div>
+
+  <!-- 14 -->
+  <div class="card c-sangha">
+    <div class="card-head"><span class="seal">๑๔</span><div><span class="tag">สังฆกรรม</span><h2>สังฆกรรม ๔ ประเภท</h2></div></div>
+    <div class="grid-mini">
+      <div><b>โล</b> อปโลกนกรรม – 5</div>
+      <div><b>ญัตติ</b> ญัตติกรรม – 9</div>
+      <div><b>ทุ</b> ญัตติทุติยกรรม – 7</div>
+      <div><b>ตุ</b> ญัตติจตุตถกรรม – 7</div>
+    </div>
+    <div class="subhead">อปโลกนกรรม ๕</div>
+    <p style="font-size:13px">โอสารณา(เณร) · นิสสารณา(ฑัณฑกรรม) · ภัณฑุกรรม · พรหมทัณฑ์ · กรรมลักษณะ(ไหว้)</p>
+    <p class="note">กรรมที่สงฆ์ต้องประชุมกันห้ามให้ฉันทะ: สามัคคีอุโบสถ · ปวารณาสังคหะ · ติณวัตถารกวินัย</p>
+  </div>
+
+  <!-- 15 -->
+  <div class="card c-sangha">
+    <div class="card-head"><span class="seal">๑๕</span><div><span class="tag">ญัตติกรรม</span><h2>ญัตติกรรม ๙ · สมมุติ ๑๓</h2></div></div>
+    <p style="font-size:13px;line-height:1.8">โอสารณา(บวช) · นิสสารณา(ธรรมกถึก) · อุโบสถ · ปวารณา · สมมุติ(สอนอันตรายิกธรรม) · ให้บาตร · รับอาบัติ · เลื่อนปวารณา · กรรมลักษณะ(หญ้า)</p>
+    <div class="subhead">สมมุติ ๑๓ (ตำแหน่งสงฆ์แต่งตั้ง)</div>
+    <p style="font-size:13px">ภัตตุทเทสก์ · เสนาสนคาหาปกะ · ภัณฑาคาริก · จีวรปฏิคาหก · จีวรภาชก · ยาคุภาชก · ผลภาชก · ขัชชภาชก · อัปปมัตตกวิสัชชก · สาฏิยคาหาปก · ปัตตคาหาปก · อารามิกเปสก</p>
+  </div>
+
+  <!-- 16 -->
+  <div class="card c-sangha">
+    <div class="card-head"><span class="seal">๑๖</span><div><span class="tag">วุฏฐานวิธี</span><h2>ปริวาส · มานัต · อัพภาน</h2></div></div>
+    <div class="grid-mini">
+      <div><b>ปริวาสมี 4</b>: ไม่-ปิด-สุท-รวม</div>
+      <div><b>มานัต 4</b>: ไม่-ปิด-รวม-ปักขะ</div>
+      <div><b>รัตติเฉท 4</b>: สหวาส วิปปวาส อนาโรจนา พร่องคณะ</div>
+    </div>
+    <p class="note">บุคคล ๕: ปาริวาสิก · มูลายปฏิกัสสนารหะ · มานัตตารหะ · มานัตตจาริก · อัพภานารหะ (วัตร ๙๔ ข้อ)</p>
+    <div class="subhead">ตามกุณาลชาดก (การปิดอาบัติ)</div>
+    <div class="pill-row"><span class="pill">ชอบ</span><span class="pill">ลับ</span><span class="pill">กาส (แสดงออก)</span></div>
+  </div>
+
+  <!-- 17 -->
+  <div class="card c-civara">
+    <div class="card-head"><span class="seal">๑๗</span><div><span class="tag">กฐิน</span><h2>จีวรปริโพธิ ๕ · อาวาสปริโพธิ ๕</h2></div></div>
+    <div class="subhead">จีวรปริโพธิ (ความกังวลเรื่องจีวร)</div>
+    <p style="font-size:13px">เสร็จ · ใจ(ยังไม่ตัดใจ) · เสีย · หวัง · เขต/พร้อม</p>
+    <div class="subhead">อาวาสปริโพธิ</div>
+    <p style="font-size:13px">หลีก · ใจ · ฟัง · เขต · พร้อม</p>
+    <div class="subhead">ธรรม ๘ ประการแห่งกฐิน</div>
+    <p style="font-size:13px">กรณ์(ตัด-เย็บ-ย้อม) · ถอน ๓ · ฐาน ๓ · กราน ๓ · กา(เดาะ) ๘ · โพธิ ๒ · เดาะ ๘ · สงฆ์ ๕</p>
+  </div>
+
+  <!-- 18 -->
+  <div class="card c-civara">
+    <div class="card-head"><span class="seal">๑๘</span><div><span class="tag">ผ้าอธิษฐาน</span><h2>ผ้าอธิษฐาน ๙ · เหตุขาดอธิษฐาน</h2></div></div>
+    <p style="font-size:13px;line-height:1.85">อันตรวาสก · อุตราสงค์ · สังฆาฏิ · ผ้านิสีทนะ · ผ้าปูนอน · ผ้าอาบน้ำฝน · ผ้าปิดฝี · ผ้าเช็ดหน้า · ผ้าบริขารโจล</p>
+    <div class="subhead">เหตุขาดอธิษฐาน ๙</div>
+    <p style="font-size:13px">ให้ · โจรลัก · ถือวิสาสะ · เลว(สละ) · ครบกาล · กลับเพศ · ถอนเอง · สึก · ทะลุ</p>
+  </div>
+
+  <!-- 19 -->
+  <div class="card c-civara">
+    <div class="card-head"><span class="seal">๑๙</span><div><span class="tag">ขนาดผ้า</span><h2>มาตราขนาดจีวร-สบง-สุคตจีวร</h2></div></div>
+    <div class="grid-mini">
+      <div><b>สุคตจีวร</b> 9×6 คืบ ≈ 675×450 ซม.</div>
+      <div><b>จีวร/สังฆาฏิ</b> 5×3 ศอกกำ ≈ 230×144</div>
+      <div><b>สบง</b> 5×2 ศอกกำ ≈ 230×96</div>
+      <div><b>ผ้าอาบน้ำฝน</b> 6×2.5 คืบ ≈ 450×187.5</div>
+      <div><b>นิสีทนะ</b> 2×1.5 คืบ + ชาย 1 คืบ</div>
+      <div><b>ผ้าปิดฝี</b> 4×2 คืบ ≈ 300×150</div>
+    </div>
+    <p class="note">1 ศอกกำ ≈ 48 ซม. · 1 คืบ ≈ 75 ซม. · ผ้าควรอธิษฐานขั้นต่ำ ≈ 50×25 ซม.</p>
+  </div>
+
+  <!-- 20 -->
+  <div class="card c-misc">
+    <div class="card-head"><span class="seal">๒๐</span><div><span class="tag">เภสัช</span><h2>กาลิก ๔ · น้ำตาล ๔ กาลิก</h2></div></div>
+    <div class="pill-row">
+      <span class="pill">ยาวกาลิก</span><span class="pill">ยามกาลิก</span>
+      <span class="pill">สัตตาหกาลิก</span><span class="pill">ยาวชีวิก</span>
+    </div>
+    <div class="subhead">ปัญจโครส</div>
+    <p style="font-size:13px">นม · นมส้ม · เปรียง · เนยข้น · เนยใส</p>
+    <div class="subhead">โอทิสสะ ๗ (ที่ทรงห้ามฉันตามเหตุ)</div>
+    <p style="font-size:13px">ไข้-ผี · คน-อ๊วก · กาล-งู · สมัย-ฉัน · เทส-บวช · เปลว-สัตว์ใหญ่ · ยา</p>
+  </div>
+
+  <!-- 21 -->
+  <div class="card c-misc">
+    <div class="card-head"><span class="seal">๒๑</span><div><span class="tag">ที่ทรงห้ามฉัน</span><h2>เนื้อ ๑๐ ชนิดต้องห้าม</h2></div></div>
+    <div class="pill-row">
+      <span class="pill">มนุษย์</span><span class="pill">ม้า</span><span class="pill">หมา</span><span class="pill">หมี</span>
+      <span class="pill">ราชสีห์</span><span class="pill">เสือโคร่ง</span><span class="pill">เสือดาว</span>
+      <span class="pill">เสือเหลือง</span><span class="pill">ช้าง</span><span class="pill">งู</span>
+    </div>
+    <p class="note">เนื้อดิบและเนื้อที่เจาะจงฆ่าถวาย (อุททิสมังสะ) ก็ต้องห้ามเช่นกัน</p>
+  </div>
+
+  <!-- 22 -->
+  <div class="card c-uposatha">
+    <div class="card-head"><span class="seal">๒๒</span><div><span class="tag">วัสสิกสาฏิกา</span><h2>ผ้าอาบน้ำฝน · การนับปี</h2></div></div>
+    <p style="font-size:13px;line-height:1.8">1 ปีมี 12 เดือน แบ่งเป็นหนาว 4 · ร้อน 4 · ฝน 4 — ปฏฐิสมัย (หลัง, เดือนสุดท้ายฤดูร้อน) ใช้แสวงหาผ้า, กุจฉิสมัย (ท้อง, ครึ่งเดือนสุดท้าย) ทำและนุ่งได้</p>
+    <div class="subhead">อธิกมาส</div>
+    <p style="font-size:13px">อรรถกถา: 3 ปีมี 1 ครั้ง · พม่า: 8 ปีมีได้ 3 ครั้ง — ปีอธิกมาสมี 13 เดือน</p>
+    <p class="note">ถ้าเลื่อนฤดูฝนออกไป ได้สิทธิ์เก็บผ้าไว้บริหารได้สูงสุดถึง 11 เดือน หากได้กรานกฐิน</p>
+  </div>
+
+  <!-- 23 -->
+  <div class="card c-misc">
+    <div class="card-head"><span class="seal">๒๓</span><div><span class="tag">ลาสิกขา</span><h2>เขตการบอกลาสิกขา ๒๒</h2></div></div>
+    <p style="font-size:13px;line-height:1.8">ตรัย · ขา · นัย · โมกข์ · เทส · ฌา · จารย์ · ริก · สิก · นุ · นา · พรหม · หิ(คิหี) · สก · มิก · เณร · ถีย ×2 · ณะ · ยะ · พอ · โยชน์ · การ · พ้น</p>
+    <div class="subhead">องค์การลาสิกขา ๖</div>
+    <p style="font-size:13px">จิต(คิดจะสึก) · เขต(22) · กาล · เพียร(วาจา) · คน(ไม่บ้า) · รู้ทันที</p>
+  </div>
+
+  <!-- 24 -->
+  <div class="card c-misc">
+    <div class="card-head"><span class="seal">๒๔</span><div><span class="tag">อุปสมบท</span><h2>อุปสมบท ๘ วิธี</h2></div></div>
+    <p style="font-size:13px;line-height:1.85">เอหิภิกขุ · สรณคมนูปสัมปทา · โอวาทปฏิคคหณะ · ปัญหาพยากรณ์ · อัฏฐครุธรรมปฏิคคหณะ · ทูเตนูปสัมปทา · อัฏฐวาจิกา(ภิกษุณี) · ญัตติจตุตถกรรม (ที่ใช้ทั่วไป)</p>
+    <div class="subhead">สมบัติ ๕ ของกรรมที่ไม่กำเริบ</div>
+    <p style="font-size:13px">วัตถุ · ญัตติ · อนุสาวนา · สีมา · ปริสสมบัติ</p>
+  </div>
+
+  <!-- 25 -->
+  <div class="card c-misc">
+    <div class="card-head"><span class="seal">๒๕</span><div><span class="tag">บาตร</span><h2>การกะขนาดบาตร</h2></div></div>
+    <ol>
+      <li>เตรียมข้าวสารดี ไม่หักซ้อม 2 ทะนานมคธ</li>
+      <li>หุงพอดี ไม่แฉะไม่แข็ง</li>
+      <li>ตักใส่บาตรให้เต็ม</li>
+      <li>เติมแกงถั่ว 1/4 ส่วน</li>
+      <li>ใส่กับข้าวจนพอดี</li>
+    </ol>
+    <p class="note">อุกกัฏฐบาตร (ใหญ่กลาง) / โอมกบาตร (พูนจอม) / อุกกุกกบาตร (พร่อง) — มัชฌิมบาตรและโอมกบาตรมีขนาดครึ่งหนึ่งตามลำดับ</p>
+  </div>
+
+  <!-- 26 -->
+  <div class="card c-civara">
+    <div class="card-head"><span class="seal">๒๖</span><div><span class="tag">ที่เก็บของ</span><h2>ที่เก็บของ ๑๕ แห่ง</h2></div></div>
+    <p style="font-size:13px;line-height:1.85">บ้าน · เรือน · ที่เก็บ · ป้อม · โรง · ปราสาท(สาท) · เรือนโล้น · เรือ · เกวียน · นา · ลาน · สวน · วัด · โคนไม้ · ที่แจ้ง</p>
+    <p class="note">อกาลจีวร: จีวรที่เกิดขึ้นนอกเวลากฐิน หรือถวายเจาะจงเป็นอกาลจีวรโดยเฉพาะ</p>
+  </div>
+
+  <!-- 27 -->
+  <div class="card c-sangha">
+    <div class="card-head"><span class="seal">๒๗</span><div><span class="tag">เวยยาวัจจกร</span><h2>วิธีถวายปัจจัยผ่านไวยาวัจกร</h2></div></div>
+    <div class="subhead">ราชสิกขาบท (3 ขั้น)</div>
+    <ol><li>มอบ – แจ้งจำนวนเงินไว้กับผู้รักษา</li><li>สั่ง – บอกให้จัดหาสิ่งที่สมควรถวาย</li><li>นิมนต์ – ให้พระใช้สอยของที่สมควร</li></ol>
+    <p class="note">เมณฑกสิกขาบทใช้เพียง 2 ขั้น (มอบ+นิมนต์) โดยเจ้าของทรัพย์แสดงไวยาวัจกรเอง</p>
+  </div>
+
+  <!-- 28 -->
+  <div class="card c-sangha">
+    <div class="card-head"><span class="seal">๒๘</span><div><span class="tag">อลัชชี</span><h2>ลักษณะอลัชชี · การแสดงอาบัติ</h2></div></div>
+    <ol><li>จงใจต้องอาบัติ</li><li>ปกปิดอาบัติ</li><li>ถึงอคติ (ลำเอียงในหน้าที่สงฆ์)</li></ol>
+    <div class="subhead">การแสดงอาบัติ (สายไทย vs พม่า)</div>
+    <p style="font-size:13px"><b>ไทย</b>: อ่อนแสดงก่อน แก่แสดงทีหลัง — ผู้อ่อนยังเหลือทุกกฏเพราะแสดงสภาคาบัติหมดแล้ว<br><b>พม่า</b>: อ่อน-แก่-อ่อน แสดง 3 รอบ — ออกจากอาบัติทั้งคู่แน่นอน</p>
+  </div>
+
+</div>
+</main>
+
+<footer>
+  <div class="rule"></div>
+  เรียบเรียงจากมาติกาพระวินัยเพื่อการทบทวนส่วนตัว · อุโปสถกฺขนฺธโก – จีวรวคฺโค
+</footer>
+
+</body>
+</html>
