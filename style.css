@@ -149,8 +149,8 @@ th { background: #fef08a; font-weight: 600; }
     margin-bottom: 0.9mm; 
 }
 
-.vertical-list { margin: 0.4mm 0; padding-left: 0.4mm; }
-.vertical-item { padding: 0.3mm 0; border-bottom: 1px dashed #e2e8f0; font-size: 7.5pt; }
+.vertical-list { margin: 0.4mm 0; padding-left: 0; list-style: none; overflow-wrap: break-word; word-break: break-word; }
+.vertical-item { padding: 0.3mm 0; border-bottom: 1px dashed #e2e8f0; font-size: 7.5pt; overflow-wrap: break-word; word-break: break-word; }
 .vertical-item:last-child { border-bottom: none; }
 
 .two-cols {
@@ -176,6 +176,10 @@ th { background: #fef08a; font-weight: 600; }
 
 .pill-row { display: flex; flex-wrap: wrap; gap: 2px; margin: 1mm 0; }
 .pill { font-size: 6.5pt; padding: 1px 4px; background: #e2e8f0; color: #1e293b; border-radius: 4px; font-weight: 600; border: 1px solid #cbd5e1; }
+
+/* Override browser defaults for ul/li inside cards */
+.card ul { padding-left: 0; margin: 0; list-style: none; }
+.card li { overflow-wrap: break-word; word-break: break-word; }
 
 /* Vinicchaya List Styles */
 .vinicchaya-list { margin-top: 0.5mm; }
@@ -216,6 +220,38 @@ th { background: #fef08a; font-weight: 600; }
 
 .p24-grid { display: flex; flex-wrap: wrap; gap: 0.5mm 2mm; font-size: 7pt; margin-top: 0.3mm; }
 .p24-grid span { display: inline-block; }
+
+/* Mobile: ซ่อน overflow และปรับ bullet list ให้พอดีหน้าจอ */
+@media (max-width: 599px) {
+    .vertical-list {
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .vertical-item {
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .card ul {
+        overflow: hidden;
+        max-width: 100%;
+    }
+    .card li {
+        overflow: hidden;
+    }
+    .vinicchaya-list .v-item .title {
+        white-space: normal;
+        min-width: auto;
+    }
+    .pill-row {
+        overflow: hidden;
+    }
+    .pill {
+        max-width: 100%;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
+}
 
 /* การตั้งค่าสำหรับการพิมพ์ (Print) */
 @media print {
