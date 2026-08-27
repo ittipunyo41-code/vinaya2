@@ -1,0 +1,230 @@
+:root {
+    --blue: #1e40af;
+    --red: #b91c1c;
+    --border: #94a3b8;
+    --bg-head: #e2e8f0;
+    --navy: #1e3c72;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sarabun', sans-serif;
+}
+
+body { 
+    background-color: #525659; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    padding: 10px; 
+    color: #0f172a; 
+    gap: 15px; 
+    overflow-x: hidden; /* ป้องกันการล้นแนวนอน */
+}
+
+/* Container หลัก: ปรับความกว้างให้ยืดหยุ่นตามหน้าจอ */
+.a4-page {
+    width: 100%;
+    max-width: 210mm;
+    min-height: 297mm;
+    height: auto;
+    background: #ffffff;
+    padding: 5mm; 
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+    position: relative;
+}
+
+.header-title {
+    text-align: center; 
+    font-size: 11.5pt; 
+    font-weight: 700;
+    margin-bottom: 1.5mm; 
+    border-bottom: 2px solid #000; 
+    padding-bottom: 0.8mm;
+}
+
+.header-sub {
+    text-align: center; 
+    font-size: 8pt; 
+    color: #475569; 
+    margin-top: -1mm; 
+    margin-bottom: 2mm;
+}
+
+/* Responsive Masonry Layout */
+.masonry {
+    column-count: 1; /* มือถือแสดง 1 คอลัมน์ */
+    column-gap: 2.5mm;
+    width: 100%;
+}
+
+@media (min-width: 600px) {
+    .masonry { column-count: 2; } /* แท็บเล็ตแสดง 2 คอลัมน์ */
+}
+
+@media (min-width: 900px) {
+    .masonry { column-count: 3; } /* จอใหญ่แสดง 3 คอลัมน์ */
+}
+
+/* Card & Content Elements */
+.card {
+    break-inside: avoid;
+    page-break-inside: avoid;
+    border: 1px solid var(--border);
+    border-top: 2.5px solid #1e293b;
+    padding: 1.8mm;
+    margin-bottom: 2.5mm;
+    border-radius: 2px;
+    font-size: 7.5pt; 
+    line-height: 1.25;
+    background: #fff;
+    overflow: hidden;
+    width: 100%;
+}
+
+.card * {
+    max-width: 100%;
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
+
+h2 { 
+    font-size: 8.8pt; 
+    font-weight: 700; 
+    background: var(--bg-head); 
+    padding: 0.9mm; 
+    margin: -1.8mm -1.8mm 0.9mm -1.8mm; 
+    border-bottom: 1px solid var(--border); 
+    text-align: center; 
+    color: #0f172a;
+}
+
+h3 { 
+    font-size: 8pt; 
+    font-weight: 700; 
+    border-bottom: 1px dashed var(--border); 
+    margin: 0.9mm 0 0.4mm 0; 
+    color: #1e293b; 
+    padding-top: 1mm; 
+}
+h3:first-of-type { margin-top: 0; padding-top: 0; }
+
+.text-blue { color: var(--blue); font-weight: 600; }
+.text-red { color: var(--red); font-weight: 600; }
+.flex-between { display: flex; justify-content: space-between; align-items: baseline; }
+
+/* Tables & Grids */
+table { 
+    width: 100%; 
+    border-collapse: collapse; 
+    margin-top: 1mm; 
+    text-align: center; 
+    table-layout: fixed; 
+}
+
+th, td { 
+    border: 1px solid var(--border); 
+    padding: 0.5mm 0.3mm; 
+    font-size: 7pt; 
+}
+th { background: #fef08a; font-weight: 600; }
+
+.verse { 
+    font-style: italic; 
+    background: #f8fafc; 
+    border-left: 2px solid #94a3b8; 
+    padding: 0.6mm 1.2mm; 
+    margin: 0.9mm 0; 
+    font-size: 7pt; 
+    color: #334155;
+}
+
+.highlight-box { 
+    background: #fef9c3; 
+    border: 1px solid #fde047; 
+    padding: 0.9mm; 
+    border-radius: 2px; 
+    margin-bottom: 0.9mm; 
+}
+
+.vertical-list { margin: 0.4mm 0; padding-left: 0.4mm; }
+.vertical-item { padding: 0.3mm 0; border-bottom: 1px dashed #e2e8f0; font-size: 7.5pt; }
+.vertical-item:last-child { border-bottom: none; }
+
+.two-cols {
+    column-count: 2;
+    column-gap: 2mm;
+    margin-top: 0.5mm;
+}
+.two-cols .vertical-item { break-inside: avoid; }
+
+.grid-mini {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1mm;
+    margin-top: 0.5mm;
+}
+.grid-mini > div {
+    background: #f1f5f9;
+    padding: 0.5mm 1mm;
+    border-radius: 2px;
+    font-size: 7pt;
+    border: 1px solid #e2e8f0;
+}
+
+.pill-row { display: flex; flex-wrap: wrap; gap: 2px; margin: 1mm 0; }
+.pill { font-size: 6.5pt; padding: 1px 4px; background: #e2e8f0; color: #1e293b; border-radius: 4px; font-weight: 600; border: 1px solid #cbd5e1; }
+
+/* Vinicchaya List Styles */
+.vinicchaya-list { margin-top: 0.5mm; }
+.vinicchaya-list .v-item {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5mm;
+    padding: 0.8mm 0;
+    border-bottom: 0.5px solid #e2e8f0;
+    font-size: 6.5pt;
+    line-height: 1.35;
+}
+.vinicchaya-list .v-item:last-child { border-bottom: none; }
+.vinicchaya-list .v-item .num {
+    flex-shrink: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background: var(--navy);
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 5.5pt;
+    line-height: 1;
+}
+.vinicchaya-list .v-item .title {
+    font-weight: 500;
+    color: var(--navy);
+    white-space: nowrap;
+    margin-right: 1mm;
+    min-width: 14mm;
+}
+.vinicchaya-list .v-item .title .abbr { font-weight: 700; color: var(--red); }
+.vinicchaya-list .v-item .desc { color: #3a3a3c; flex: 1; }
+.vinicchaya-list .v-item .desc .tag { background: #eef3f9; padding: 0 3px; border-radius: 2px; font-size: 5.5pt; color: var(--navy); margin-right: 1px; display: inline-block; }
+
+.p24-grid { display: flex; flex-wrap: wrap; gap: 0.5mm 2mm; font-size: 7pt; margin-top: 0.3mm; }
+.p24-grid span { display: inline-block; }
+
+/* การตั้งค่าสำหรับการพิมพ์ (Print) */
+@media print {
+    @page { size: A4 portrait; margin: 4mm; }
+    body { background: #fff; padding: 0; gap: 0; display: block; }
+    .a4-page { box-shadow: none; width: 100%; max-width: 100%; padding: 0; margin: 0; }
+    .masonry { column-count: 3; } /* สั่งพิมพ์ให้ออกเป็น 3 คอลัมน์เสมอ */
+    .vinicchaya-list .v-item { font-size: 6pt; }
+    .vinicchaya-list .v-item .num { min-width: 10px; height: 10px; font-size: 5pt; }
+    .vinicchaya-list .v-item .desc { font-size: 5.5pt; }
+    .p24-grid { gap: 0.3mm 1.5mm; font-size: 6.5pt; }
+}
