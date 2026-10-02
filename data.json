@@ -1,0 +1,2082 @@
+{
+ "meta": {
+  "title": "สรุปพระวินัยเรียนในห้อง(ฉบับสังเขป)/Wolonggang\n                Mountain",
+  "subtitle": "สรุปมาติกา อุโปสถ สีมา ปาราชิก สังฆาทิเสส\n                จีวร สังฆกรรม และคาถาปริภาษา",
+  "version": 2
+ },
+ "cards": [
+  {
+   "id": "c01",
+   "title": "อำนาจประโยชน์ ๑๐ ประการ",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อำนาจประโยชน์ ๑๐ ประการ"
+    },
+    {
+     "type": "html",
+     "html": "<p style=\"text-align: left; line-height: 1.6; margin: 0;\"> <strong>๑. รับ</strong> สงฺฆสุฏฺฐุตาย, <strong>๒. ผาสุก</strong> สงฺฆผาสุตาย, <strong>๓. ข่ม</strong> ทุมฺมงฺกูนํ ปุคฺคลานํ นิคฺคหาย, <strong>๔. ผาสุก</strong> เปสลานํ ภิกฺขูนํ ผาสุวิหาราย, <strong>๕. ปิดกั้น</strong> ทิฏฺฐธมฺมิกานํ อาสวานํ สํวราย, <strong>๖. ป้องกัน</strong> สมฺปรายิกานํ อาสวานํ ปฏิฆาตาย, <strong>๗. เลื่อมใส</strong> อปฺปสนฺนานํ ปสาทาย, <strong>๘. เลื่อมใส</strong> ปสนฺนานํ ภิยฺโยภาวาย, <strong>๙. ธรรม</strong> สทฺธมฺมฏฺฐิติยา, <strong>๑๐. วินัย</strong> วินยานุคฺคหาย. </p>"
+    }
+   ],
+   "tags": [
+    "ทั่วไป"
+   ]
+  },
+  {
+   "id": "c02",
+   "title": "อธิกรณ์ ๔",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อธิกรณ์ ๔"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<strong class=\"item-title\" style=\"text-align: left;\">๑. วิ-วิทาธิกรณ์</strong> <div class=\"pill-row\"> <span class=\"pill\">สัม,เย</span> <span class=\"pill\">ด่า</span> <span class=\"pill\">ปา,ทุก</span> </div>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong class=\"item-title\" style=\"text-align: left;\">๒. นุ-อนุวาธาธิกรณ์</strong> <div class=\"pill-row\"> <span class=\"pill\">สัม,ติ,มูห,ตัส</span> <span class=\"pill\">จัด</span> <span class=\"pill\">สํ,ปา,ทุก</span> </div>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong class=\"item-title\" style=\"text-align: left;\">๓. บัติ-อาปัตตาธิกรณ์</strong> <div class=\"pill-row\"> <span class=\"pill\">สัม,ญา,ติณ</span> <span class=\"pill\">ปิด</span> <span class=\"pill\">ซิก,ถุล,ปา,ทุก</span> </div>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong class=\"item-title\" style=\"text-align: left;\">๔. กิจ-กิจจาธิกรณ์</strong> <div class=\"pill-row\"> <span class=\"pill\">สัม</span> <span class=\"pill\">ภาส</span> <span class=\"pill\">ซิก,สํ,ถุล,ปา,ทุก</span> </div>",
+       "li": true,
+       "style": "text-align: left;"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "อธิกรณ์"
+   ]
+  },
+  {
+   "id": "c03",
+   "title": "อธิกรณ์สมถะ ๗",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อธิกรณ์สมถะ ๗"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<strong style=\"text-align: left;\">๑. สัมมุขาวินัย</strong> <span class=\"pill\">-สัม</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๒. สติวินัย</strong> <span class=\"pill\">-ติ</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๓. อมูฬหวินัย</strong> <span class=\"pill\">-มูห</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๔. ปฏิญญาตกรณะ</strong> <span class=\"pill\">-ญา</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๕. เยภุยยสิกา</strong> <span class=\"pill\">-เย</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๖. ตัสสปาปิยสิกา</strong> <span class=\"pill\">-ตัส</span>",
+       "li": true,
+       "style": "text-align: left;"
+      },
+      {
+       "html": "<strong style=\"text-align: left;\">๗. ติณวัตถารกวินัย</strong> <span class=\"pill\">-ติณ</span>",
+       "li": true,
+       "style": "text-align: left;"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "อธิกรณ์"
+   ]
+  },
+  {
+   "id": "c04",
+   "title": "ลักษณะวินิจฉัย ๑๗ อย่าง",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ลักษณะวินิจฉัย ๑๗ อย่าง"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"vinicchaya-list\" style=\"margin-top: 0.5mm;\"> <div style=\"text-align: left; margin-bottom: 15px;\"> <div style=\"font-weight: bold; margin-bottom: 8px;\">หัวข้อลักษณะวินิจฉัย ๑๗</div> <div style=\"display: flex; flex-wrap: wrap; gap: 6px;\"> <span class=\"pill\">๑. ทาน</span> <span class=\"pill\">๒. คล</span> <span class=\"pill\">๓. ถุ</span> <span class=\"pill\">๔. ญัติ</span> <span class=\"pill\">๕. ณัติ</span> <span class=\"pill\">๖. บัติ</span> <span class=\"pill\">๗. บัติ</span> <span class=\"pill\">๘. บัติ</span> <span class=\"pill\">๙. องค์</span> <span class=\"pill\">๑๐. ฐาน</span> <span class=\"pill\">๑๑. ยา</span> <span class=\"pill\">๑๒. ญา</span> <span class=\"pill\">๑๓. จิต</span> <span class=\"pill\">๑๔. ชะ</span> <span class=\"pill\">๑๕. กัม</span> <span class=\"pill\">๑๖. ศล</span> <span class=\"pill\">๑๗. นา</span> </div> </div> <!-- ๑. ทาน-นิทาน --> <div class=\"v-item\"> <span class=\"num\">๑</span><span class=\"title\"><span class=\"abbr\">ทาน</span>-นิทาน</span> <span class=\"desc\"><b>เว</b>-เวสาลี, <b>รา</b>-ราชคฤห์, <b>สา</b>-สาวัตถี, <b>อา</b>-อาฬวี, <b>โก</b>-โกสัมพี, <b>สกุ</b>-สักกะ, <b>ภค</b>-ภัคคะ</span> </div> <!-- ๒. คล-บุคคล --> <div class=\"v-item\"> <span class=\"num\">๒</span><span class=\"title\"><span class=\"abbr\">คล</span>-บุคคล</span> <span class=\"desc\" style=\"line-height: 1.5;\"> <b>สุ</b>-สุทินฺน, <b>นิ</b>-ธนิย, <b>สัม</b>-สมฺพหุลา, <b>มุ</b>-วคฺคุมุทา, <b>เสย</b>-เสยฺยสก, <b>ยี</b>-อุทายี, <b>อา</b>-อาฬวิกา, <b>ฉัน</b>-ฉนฺน, <b>เมต</b>-เมตฺติยภุมฺมชกา, <b>เท</b>-เทวทตฺต, <b>ชิ</b>-อสฺสชิปุนพฺพสุกา, <b>คี</b>-ฉพฺพคฺคิยา, <b>นนท์</b>-อุปนนฺท, <b>อัญ</b>-อญฺญตร, <b>หัต</b>-หตฺถก, <b>รุท</b>-อนุรุทฺธ, <b>เจ็ด</b>-สตฺตรสวคฺคิยา, <b>ถก</b>-จูฬปนฺถก, <b>เพ</b>-เพลฏฺฐสีส, <b>นนท์</b>-อานนฺท, <b>สา</b>-สาคต, <b>ริฏ</b>-อริฏฺฐ, <b>นันท์</b>-นนฺท<br/><br/> <b>ภิกษุณี ๗:</b> <b>สุน</b>-สุนฺทรีนนฺทา, <b>ถุล</b>-ถุลฺลนนฺทา, <b>คี</b>-ฉพฺพคฺคิยา, <b>อัญ</b>-อญฺญตรา, <b>จัณ</b>-จณฺฑกาลี, <b>สัม</b>-สมฺพหุลา, <b>สอง</b>-เทฺวภิกฺขุนี </span> </div> <!-- ๓. ถุ-วัตถุ --> <div class=\"v-item\"> <span class=\"num\">๓</span><span class=\"title\"><span class=\"abbr\">ถุ</span>-วัตถุ</span> <span class=\"desc\">เรื่องที่ทำการล่วงละเมิด</span> </div> <!-- ๔. ญัติ-ปัญญัตติ --> <div class=\"v-item\"> <span class=\"num\">๔</span><span class=\"title\"><span class=\"abbr\">ญัติ</span>-ปัญญัตติ</span> <span class=\"desc\"> <span class=\"tag\">บัญญัติ ๙</span> <b>1.ปญฺ</b>-ปญฺญตฺติ (แรก), <b>2.นุ</b>-อนุปญฺญตฺติ (หลัง), <b>3.ปนฺ</b>-อนุปฺปนฺนฯ (ครุธรรม ๘), <b>4.สพฺ</b>-สพฺพตฺถฯ (สิกขาบท ท.), <b>5.เท</b>-ปเทส (บวช เท้า น้ำ หนัง), <b>6.สา</b>-สาธารณ (2 ปาฏิโมกข์), <b>7.สา</b>-อสาธารณ (ปาฏิโมกข์เดียว), <b>8.เอ</b>-เอกโต (ปาฏิโมกข์เดียว), <b>9.อุ</b>-อุภโต (2 ปาฏิโมกข์)<br/> <span class=\"tag\" style=\"margin-top: 2px;\">อนุบัญญัติ ๓</span> หนัก-อุปตฺถมฺภกกรา, เบา-อนาปตฺติกรา, อื่น-อาปตฺติกรา </span> </div> <!-- ๕. ณัติ-อาณัตติ --> <div class=\"v-item\"> <span class=\"num\">๕</span><span class=\"title\"><span class=\"abbr\">ณัติ</span>-อาณัตติ</span> <span class=\"desc\"><b>สาณตฺติก</b> — ทำเอง/สั่งผู้อื่น, <b>อาณตฺติก</b> — ทำเอง</span> </div> <!-- ๖. บัติ-อาบัติ --> <div class=\"v-item\"> <span class=\"num\">๖</span><span class=\"title\"><span class=\"abbr\">บัติ</span>-อาบัติ</span> <span class=\"desc\"><b>1.อาย</b>-อลชฺชิตา, <b>2.รู้</b>-อญฺญานตา, <b>3.สัย</b>-กุกฺกุจฺจปกตตา, <b>4.คัญ</b>-อกปฺปิเย กปฺปิยสญฺญิตา, <b>5.คัญ</b>-กปฺปิเย อกปฺปิยสญฺญิตา, <b>6.ลืม</b>-สติสมฺโมสา</span> </div> <!-- ๗. บัติ-อนาบัติ --> <div class=\"v-item\"> <span class=\"num\">๗</span><span class=\"title\"><span class=\"abbr\">บัติ</span>-อนาบัติ</span> <span class=\"desc\">บ้า (บ้าน้ำดี), ส่าย (บ้ายักษ์), นา (เวทนากล้า), ทิ (ต้นบัญญัติ)</span> </div> <!-- ๘. บัติ-วิบัติ --> <div class=\"v-item\"> <span class=\"num\">๘</span><span class=\"title\"><span class=\"abbr\">บัติ</span>-วิบัติ</span> <span class=\"desc\"><b>ศีล</b>-ศีลวิบัติ (ปาราชิก,สังฆาทิเสส), <b>อา</b>-อาจารวิบัติ (๕ กองที่เหลือ), <b>ชี</b>-อาชีววิบัติ (ไม่มีโดยตรง ชิก,สํ,ถุล,ปา,ปา,ทุก), <b>ฐิ</b>-ทิฏฐิวิบัติ (ไม่มีโดยตรง ปา,ทุก)</span> </div> <!-- ๙. องค์-องค์ --> <div class=\"v-item\"> <span class=\"num\">๙</span><span class=\"title\"><span class=\"abbr\">องค์</span>-องค์</span> <span class=\"desc\">องค์ประกอบที่ทําให้ต้องอาบัติในแต่ละสิกขาบท</span> </div> <!-- ๑๐. ฐาน-สมุฏฐาน --> <div class=\"v-item\"> <span class=\"num\">๑๐</span><span class=\"title\"><span class=\"abbr\">ฐาน</span>-สมุฏฐาน</span> <span class=\"desc\"><b>1)</b> กาย, <b>2)</b> วาจา, <b>3)</b> กาย+วาจา, <b>4)</b> กาย+จิต, <b>5)</b> วาจา+จิต, <b>6)</b> กาย+วาจา+จิต</span> </div> <!-- ๑๑. ยา-กิริยา --> <div class=\"v-item\"> <span class=\"num\">๑๑</span><span class=\"title\"><span class=\"abbr\">ยา</span>-กิริยา</span> <span class=\"desc\"><b>1.ยา</b> (ดิน), <b>2.ไม่</b> (ถิน), <b>3.ยา-ไม่</b> (วร), <b>4.บางยา บางไม่</b> (เงิน), <b>5.บางยา บางไม่ บางยาไม่</b> (ฏิ)</span> </div> <!-- ๑๒. ญา-สัญญาวิโมกข์ --> <div class=\"v-item\"> <span class=\"num\">๑๒</span><span class=\"title\"><span class=\"abbr\">ญา</span>-สัญญาวิโมกข์</span> <span class=\"desc\"><b>๑) สญฺญาวิโมกฺข</b> (พ้นเพราะไม่มีเจตนาก้าวล่วง, สจิตฺตก) <br/><b>๒) โนสญฺญาวิโมกฺข</b> (ไม่มีเจตนาก้าวล่วงก็ไม่พ้น, อจิตฺตก)</span> </div> <!-- ๑๓. จิต-จิต --> <div class=\"v-item\"> <span class=\"num\">๑๓</span><span class=\"title\"><span class=\"abbr\">จิต</span>-จิต</span> <span class=\"desc\"><b>สจิตฺตก</b> — เจตนาจึงต้อง (ไม่มี 1, 2, 3) <br/><b>อจิตฺตก</b> — ไม่เจตนาก็ต้อง (มี 1, 2, 3 ปน)</span> </div> <!-- ๑๔. ชะ-วัชชัปปเภท --> <div class=\"v-item\"> <span class=\"num\">๑๔</span><span class=\"title\"><span class=\"abbr\">ชะ</span>-วัชชัปปเภท</span> <span class=\"desc\"><b>๑) โลกวชฺชะ</b> — เมื่อมีเจตนา จิตเป็นได้ทั้ง กุ, อกุ, อัพ <br/><b>๒) ปณฺณตฺติวชฺชะ</b> — เมื่อมีเจตนา จิตเป็นอกุศลเท่านั้น</span> </div> <!-- ๑๕. กัม-กัมมะ --> <div class=\"v-item\"> <span class=\"num\">๑๕</span><span class=\"title\"><span class=\"abbr\">กัม</span>-กัมมะ</span> <span class=\"desc\"><b>กาย</b> 4, 1-4 | <b>วจี</b> 5, 2-5 | <b>กาย-วจี</b> 6, 3-6, 4-6, 5-6, 1-2-3, 4-5-6, 1-3-4-6, 2-3-5-6, 1-2-3-4-5-6</span> </div> <!-- ๑๖. ศล-กุสลัตติกะ --> <div class=\"v-item\"> <span class=\"num\">๑๖</span><span class=\"title\"><span class=\"abbr\">ศล</span>-กุสลัตติกะ</span> <span class=\"desc\"> - อกุสล, - กุสล, อัพยากต <br/> <small><b>วิภังค์ (แยก 3):</b> กุ, อกุ, อัพ (เน้นจิตที่เป็น/ไม่เป็นอันตราย)</small><br/> <small><b>สมถขันธกะ (แยก 2):</b> อกุ, อัพ (เน้นจิตเกิดวิญญัติรูป - อกุ 12, อัพยากต=วิญญัติรูป 2)</small> </span> </div> <!-- ๑๗. นา-เวทนาติกะ --> <div class=\"v-item\"> <span class=\"num\">๑๗</span><span class=\"title\"><span class=\"abbr\">นา</span>-เวทนาติกะ</span> <span class=\"desc\">- ทุกขเวทนา, - สุข, อุเบกขาเวทนา</span> </div> </div>"
+    }
+   ],
+   "tags": [
+    "อาบัติ"
+   ]
+  },
+  {
+   "id": "c05",
+   "title": "อุปสมบท 8 & องค์ลาสิกขา 6",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "อุปสมบท 8 & องค์ลาสิกขา 6"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อุปสมบท 8"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "1. เอ - เอหิภิกฺขุอุปสมฺปทา",
+       "cls": "text-blue"
+      },
+      {
+       "html": "2. ส - สรณคมนูปสมฺปทา",
+       "cls": "text-blue"
+      },
+      {
+       "html": "3. โอ - โอวาทปฏิคฺคหณูปสมฺปทา",
+       "cls": "text-blue"
+      },
+      {
+       "html": "4. ปญฺ - ปญฺหาพฺยากรณูปสมฺปทา",
+       "cls": "text-blue"
+      },
+      {
+       "html": "5. อฏฺ - อฏฺฐครุธมฺมปฏิคฺคหณูปสมฺปทา",
+       "cls": "text-red"
+      },
+      {
+       "html": "6. ทู - ทูเตนูปสมฺปทา",
+       "cls": "text-red"
+      },
+      {
+       "html": "7. อฏฺ - อฏฺฐวาจิกูปสมฺปทา",
+       "cls": "text-red"
+      },
+      {
+       "html": "8. ญตฺ - ญตฺติจตุตฺถกมฺมูปสมฺปทา",
+       "cls": "text-blue"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สมบัติ ๕ ของกรรมที่ไม่กำเริบ"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "วัตถุ",
+      "ญัตติ",
+      "อนุสาวนา",
+      "สีมา",
+      "ปริสสมบัติ"
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "องค์ลาสิกขา 6"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. จิต</b> - คิดจะสึก"
+      },
+      {
+       "html": "<b>2. เขต</b> - 22"
+      },
+      {
+       "html": "<b>3. กาล</b> - มิ,หิ,พอ,โยชน์,การ,พ้น"
+      },
+      {
+       "html": "<b>4. เพียร</b> - วาจา"
+      },
+      {
+       "html": "<b>5. คน</b> - ไม่บ้า,ส่าย,นา"
+      },
+      {
+       "html": "<b>6. รู้</b> - รู้ทันที"
+      }
+     ]
+    },
+    {
+     "type": "verse",
+     "html": "“จิตฺตํ เขตฺตญฺจ กาโล จ, ปโยโค ปุคฺคโล ตถา;<br/> วิชานนนฺติสิกฺขาย, ปจฺจกฺขานํ ฉฬงฺคิก”นฺติ."
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เขตบอกลาสิกขา 22"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"padding: 0.5mm;\"> <div class=\"text-blue\" style=\"text-align: center; font-weight: bold; margin-bottom: 0.3mm; border-bottom: 1px solid var(--border); padding-bottom: 0.2mm;\">ปจฺจกฺขามิ</div> </div>"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ตรัย</b> - พุทฺธํ , ธมฺมํ, สงฺฆํ"
+      },
+      {
+       "html": "<b>ขา</b> - สิกฺขํ"
+      },
+      {
+       "html": "<b>นัย</b> - วินยํ"
+      },
+      {
+       "html": "<b>โมกข์</b> - ปาติโมกฺขํ"
+      },
+      {
+       "html": "<b>เทส</b> - อุทฺเทสํ"
+      },
+      {
+       "html": "<b>ณา</b> - อุปชฺฌายํ"
+      },
+      {
+       "html": "<b>จารย์</b> - อาจริยํ"
+      },
+      {
+       "html": "<b>ริก</b> - สทฺธิวิหาริกํ"
+      },
+      {
+       "html": "<b>สิก</b> - อนฺเตวาสิกํ"
+      },
+      {
+       "html": "<b>นุ</b> - สมานุปชฺณายกํ"
+      },
+      {
+       "html": "<b>นา</b> - สมานาจริยกํ"
+      },
+      {
+       "html": "<b>พรหม</b> - สพฺรหฺมจารึ"
+      }
+     ]
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border-top: 1px dashed var(--border); padding-top: 0.8mm; margin-top:0.8mm;\"> <div class=\"text-blue\" style=\"text-align: center; font-weight: bold; margin-bottom: 0.3mm; border-bottom: 1px solid var(--border); padding-bottom: 0.2mm;\">ธาเรหิ, ธาเรถ</div> <div class=\"vertical-list\"> <div class=\"vertical-item\"><b>หิ</b> - คิหีติ</div> <div class=\"vertical-item\"><b>สก</b> - อุปาสโกติ</div> <div class=\"vertical-item\"><b>มิก</b> - อารามิโกติ</div> <div class=\"vertical-item\"><b>เณร</b> - สามเณโรติ</div> <div class=\"vertical-item\"><b>ถีย์</b> - ติตฺถิโยติ</div> <div class=\"vertical-item\"><b>ถีย์</b> - ติตฺถิยสาวโกติ</div> <div class=\"vertical-item\"><b>ณะ</b> - อสฺสมโณติ</div> <div class=\"vertical-item\"><b>ยะ</b> - อสกฺยปุตฺติโยติ</div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"margin-top: 0.8mm; background: #f8fafc; padding: 0.6mm; font-size: 7pt;\"> <div><b>พอ:</b> อลํ เม พุทฺเธน... สพฺรหฺมจารีหิ</div> <div><b>โยชน์:</b> กินฺนุ เม พุทฺเธน... สพฺรหฺมจารีหิ</div> <div><b>การ:</b> น มมตฺโถ พุทฺเธน... สพฺรหฺมจารีหิ</div> <div><b>พ้น:</b> สุมุหุตฺตาหํ พุทฺเธน... สพฺรหฺมจารีหิ</div> </div>"
+    }
+   ],
+   "tags": [
+    "อุปสมบท",
+    "สังฆกรรม"
+   ]
+  },
+  {
+   "id": "c06",
+   "title": "ปฐมปาราชิก",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ปฐมปาราชิก"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"flex-between\" style=\"background:#f0f9ff; border:1px solid #bae6fd; padding:0.9mm; margin-bottom:0.9mm;\"> <div> <div><b class=\"text-blue\">หญิง 3</b> (ปาก หนัก เบา)</div> <div><b class=\"text-blue\">โต 3</b> (ปาก หนัก เบา)</div> <div><b class=\"text-blue\">ชาย 2</b> (ปาก หนัก)</div> <div><b class=\"text-blue\">เทาะก์ 2</b> (ปาก หนัก)</div> </div> <div style=\"text-align:right;\"> <b>มัค 30</b><br/>X <span class=\"text-blue\">3</span> (นุส/นุส/ฉาน) = <span class=\"text-blue\">30</span> </div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "กรณีถูกข่มขืน"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"margin-bottom:0.4mm;\">พิจารณา: ยินดี <span class=\"text-red\">= ปาราชิก</span> / ไม่ยินดี = อนาบัติ</div>"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"two-cols\" style=\"font-size: 7pt;\"> <div class=\"vertical-item\">1. <b>เข้า</b> - ปเวสนํ</div> <div class=\"vertical-item\">2. <b>แล้ว</b> - ปวิฏฺฐํ</div> <div class=\"vertical-item\">3. <b>หยุด</b> - ฐิตํ</div> <div class=\"vertical-item\">4. <b>ชัก</b> - อุทฺธรณํ</div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เรื่องหญิง 8"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"two-cols\" style=\"font-size: 7.2pt;\"> <div class=\"vertical-item\">1. <b>ตื่น</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">2. <b>หลับ</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">3. <b>เมา</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">4. <b>บ้า</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">5. <b>มาท</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">6. <b>ตายไม่</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\">7. <b>ตายไม่มาก</b> ➔ <b class=\"text-red\">ปา.</b></div> <div class=\"vertical-item\" style=\"background:#fef2f2; padding-left: 0.5mm; border-radius:2px;\">8. <b>ตายมาก</b> ➔ <b class=\"text-blue\">ทุกกฎ</b></div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1.5mm; margin-top: 1mm; border-top: 1px dashed var(--border); padding-top: 0.8mm;\"> <div style=\"flex: 1;\"> <div class=\"text-blue\" style=\"font-size: 7.5pt; font-weight: bold; border-bottom: 1px solid #e2e8f0; margin-bottom: 0.5mm;\">ราคะ 5:</div> <div class=\"vertical-list\" style=\"margin:0; font-size: 7pt;\"> <div class=\"vertical-item\"><b>ถุล</b> - เมถุนราเคน</div> <div class=\"vertical-item\"><b>ปล่อย</b> - โมจนราเคน</div> <div class=\"vertical-item\"><b>จับ</b> - กายสํสคฺคราเคน</div> <div class=\"vertical-item\"><b>พูด</b> - ทุฏฺฐุลฺลวาจาฯ</div> <div class=\"vertical-item\"><b>พูด</b> - อตฺตกามปาริจริยฯ</div> </div> </div> <div style=\"flex: 1;\"> <div class=\"text-blue\" style=\"font-size: 7.5pt; font-weight: bold; border-bottom: 1px solid #e2e8f0; margin-bottom: 0.5mm;\">องคชาตแข็ง 5:</div> <div class=\"vertical-list\" style=\"margin:0; font-size: 7pt;\"> <div class=\"vertical-item\"><b>คะ</b> - ราเคน</div> <div class=\"vertical-item\"><b>หนัก</b> - วจฺเจน</div> <div class=\"vertical-item\"><b>เบา</b> - ปสฺสาเวน</div> <div class=\"vertical-item\"><b>ลม</b> - วาเตน</div> <div class=\"vertical-item\"><b>หนอน</b> - อุจฺจาลิงฺคปาณฯ</div> </div> </div> </div>"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c07",
+   "title": "ทุติยปาราชิก (การลัก)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ทุติยปาราชิก (การลัก)"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เกณฑ์อาบัติ / การประเมินราคา (ทุติยปาราชิก)",
+     "style": "margin-top: 1.5mm; text-align: center; background: #fef08a; padding: 0.5mm; border: 1px solid #eab308; border-radius: 2px;"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1.5mm; margin-top: 1mm;\"> <div style=\"flex: 1; border: 1px dotted var(--border); padding: 1mm; border-radius: 2px;\"> <div style=\"font-weight: bold; text-align: center; margin-bottom: 0.5mm; color: #0f172a;\">อาบัติ ๓</div> <div class=\"vertical-list\" style=\"margin:0; font-size: 6.8pt;\"> <div class=\"flex-between vertical-item\"><span class=\"text-blue\">1</span><span class=\"text-red\">ทุก</span></div> <div class=\"flex-between vertical-item\"><span class=\"text-blue\">เกิน 1 หย่อน 5</span><span class=\"text-red\">ถุล</span></div> <div class=\"flex-between vertical-item\"><span class=\"text-blue\">5</span><span class=\"text-red\">ปา</span></div> </div> </div> <div style=\"flex: 1; border: 1px dotted var(--border); padding: 1mm; border-radius: 2px;\"> <div style=\"font-weight: bold; text-align: center; margin-bottom: 0.5mm; color: #0f172a;\">อาบัติใกล้ปาราชิก</div> <div class=\"vertical-list\" style=\"margin:0; font-size: 6.8pt;\"> <div class=\"flex-between vertical-item\"><span class=\"text-blue\">1</span><span class=\"text-red\">ทุก</span></div> <div class=\"flex-between vertical-item\"><span class=\"text-blue\">2, 3, 4</span><span class=\"text-red\">ถุล</span></div> </div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border: 1px solid #cbd5e1; background: #f8fafc; padding: 1mm; margin-top: 1.5mm; border-radius: 2px;\"> <div style=\"text-align: center; font-weight: bold; color: var(--blue); font-size: 8pt;\">วิธีคิด 5 มาสก</div> <div style=\"text-align: center; font-size: 6.5pt; color: var(--red); border-bottom: 1px dashed #cbd5e1; padding-bottom: 0.5mm; margin-bottom: 0.5mm;\"> สมัยโบราณ (1 บาท = 5 มาสก = 40 เมล็ดข้าวเปลือก) </div> <div class=\"vertical-list\" style=\"font-size: 6.5pt; margin: 0;\"> <div class=\"vertical-item\" style=\"padding: 0.5mm 0;\"> <b>① นีลกหาปณะ:</b> ทอง 1 บ., เงิน 1 บ., ทองแดง 2 บ. <br/> <span style=\"color: #475569; padding-left: 2mm;\">➔ รวมกันแล้วตีราคา 1/4 = 5 มาสก</span> </div> <div class=\"vertical-item\" style=\"padding: 0.5mm 0;\"> <b>② ประเทศที่ไม่มีนิลกหาปณะ:</b><br/> <span style=\"color: #475569; padding-left: 2mm;\">ใช้ตีราคา 1 บาท (5 มาสก) ในทุติยปาราชิก</span> </div> <div class=\"vertical-item text-blue\" style=\"padding: 0.5mm 0;\"> <b>วิมติวิโนทนีฎีกา:</b> 1 บาท = 5 มาสก = ราคาทอง 40 เมล็ดข้าวเปลือก </div> </div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "มาติกา เรื่องการลัก 30"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"two-cols\" style=\"font-size: 6.5pt;\"> <div class=\"vertical-item\">1. <b>ดิน</b> - ภูมฏฺฐํ</div> <div class=\"vertical-item\">2. <b>บก</b> - ถลฏฺฐํ</div> <div class=\"vertical-item\">3. <b>กาศ</b> - อากาสฏฺฐํ</div> <div class=\"vertical-item\">4. <b>แจ้ง</b> - เวหาสฏฺฐํ</div> <div class=\"vertical-item\">5. <b>น้ำ</b> - อุทกฏฺฐํ</div> <div class=\"vertical-item\">6. <b>เรือ</b> - นาวฏฺฐํ</div> <div class=\"vertical-item\">7. <b>ยาน</b> - ยานฏฺฐํ</div> <div class=\"vertical-item\">8. <b>นำ</b> - ภารฏฺฐํ</div> <div class=\"vertical-item\">9. <b>สวน</b> - อารามฏฺฐํ</div> <div class=\"vertical-item\">10. <b>วัด</b> - วิหารฏฺฐํ</div> <div class=\"vertical-item\">11. <b>นา</b> - เขตฺตฏฺฐํ</div> <div class=\"vertical-item\">12. <b>ที่</b> - วตฺถุฏฺฐํ</div> <div class=\"vertical-item\">13. <b>บ้าน</b> - คามฏฺฐํ</div> <div class=\"vertical-item\">14. <b>ป่า</b> - อรญฺญฏฺฐํ</div> <div class=\"vertical-item\">15. <b>น้ำ</b> - อุทกํ</div> <div class=\"vertical-item\">16. <b>ฟัน</b> - ทนฺตโปณํ</div> <div class=\"vertical-item\">17. <b>ไม้</b> - วนปฺปติ</div> <div class=\"vertical-item\">18. <b>คน</b> - หรณกํ</div> <div class=\"vertical-item\">19. <b>ฝาก</b> - อุปนิธิ</div> <div class=\"vertical-item\">20. <b>ส่วย</b> - สุงฺกฆาตํ</div> <div class=\"vertical-item\">21. <b>สัตว์</b> - ปาโณ</div> <div class=\"vertical-item\">22. .... - อปทํ</div> <div class=\"vertical-item\">23. .... - ทฺวิปทํ</div> <div class=\"vertical-item\">24. .... - จตุปฺปทํ</div> <div class=\"vertical-item\">25. .... - พหุปฺปทํ</div> <div class=\"vertical-item\">26. <b>สั่ง</b> - โอจรโก</div> <div class=\"vertical-item\">27. <b>รับ</b> - โอณิรกฺโข</div> <div class=\"vertical-item\">28. <b>ชวน</b> - สํวิทาวหาโร</div> <div class=\"vertical-item\">29. <b>หมาย</b> - สงฺเกตกมฺมํ</div> <div class=\"vertical-item\">30. <b>มิต</b> - นิมิตฺตกมฺมนฺติ</div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เรื่อง ภูมฏฺฐํ มี ปาราชิก 5"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "1. ภาชนะ"
+      },
+      {
+       "html": "2. กำ"
+      },
+      {
+       "html": "3. ยกปลาย <span style=\"color:#64748b;\">(วาล, คอ, เอว, ผ้า, ผ้า)</span>"
+      },
+      {
+       "html": "4. ลากพ้น <span style=\"color:#64748b;\">(วาล, คอ, เอว, ผ้า, ผ้า)</span>"
+      },
+      {
+       "html": "5. ดื่ม <span style=\"color:#64748b;\">(ใส, มัน, ผึ้ง, อ้อย)</span>"
+      },
+      {
+       "html": "ลาย, ทิ้ง, เผา, ใช้ = ทุกกฎ",
+       "cls": "text-red"
+      }
+     ],
+     "style": "font-size: 7.2pt;"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"highlight-box\" style=\"margin-top: 0.9mm; font-size: 7.2pt;\"> <div style=\"font-weight: bold; text-align: center; margin-bottom: 0.3mm;\">ปาทํ วา ปาทารหํ วา อติเรกปาทํ วา</div> <div style=\"display: flex; justify-content: space-around; margin: 0;\"> <div><b>บาท</b> - เงิน</div> <div><b>ควร</b> - ของ</div> <div><b>เกิน</b> - สอง</div> </div> </div>"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c08",
+   "title": "อวหาร 5 (5 ปัญจกะ)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "อวหาร 5 (5 ปัญจกะ)"
+    },
+    {
+     "type": "html",
+     "html": "<table> <tr> <th>นา</th> <th>เอ</th> <th>สา</th> <th>ปุพ</th> <th>เถย</th> </tr> <tr> <td>ตู่</td> <td>ตู่</td> <td>เอง</td> <td>ก่อน</td> <td>งัด</td> </tr> <tr> <td>ชิง</td> <td>ชิง</td> <td>สั่ง</td> <td>พร้อม</td> <td>ข่ม</td> </tr> <tr> <td>ฉ้อ</td> <td>ฉ้อ</td> <td>โยน</td> <td>ชวน</td> <td>หนด</td> </tr> <tr> <td>เริบ</td> <td>เริบ</td> <td>เร็จ</td> <td>นัด</td> <td>กลบ</td> </tr> <tr> <td>ไหว</td> <td>ไหว</td> <td>ทอด</td> <td>มิต</td> <td>สลาก</td> </tr> </table>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สั่ง 4 แบบ"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. อาณตฺติก</b> - สั่ง (หน้า)"
+      },
+      {
+       "html": "<b>2. อตฺถสาธก</b> - เร็จ(กาล)"
+      },
+      {
+       "html": "<b>3. สงฺเกตกมฺม</b> - นัด (กาล)"
+      },
+      {
+       "html": "<b>4. นิมิตฺตกมฺม</b> - มิต (ตา)"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "พระวินัยธรพึงพิจารณา 5"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. ถุ</b> - เจ้าของ, อาลัย"
+      },
+      {
+       "html": "<b>2. กาล</b> - ถูก, แพง"
+      },
+      {
+       "html": "<b>3. ที่</b> - ถูก, แพง"
+      },
+      {
+       "html": "<b>4. คา</b> - ใหม่, เก่า"
+      },
+      {
+       "html": "<b>5. ใช้</b> - ใช้, ไม่ใช้"
+      }
+     ]
+    },
+    {
+     "type": "verse",
+     "html": "<b>ปญฺจ ฐานานิ โอโลเกตพฺพานิ</b><br/> “วตฺถุํ กาลญฺจ เทสญฺจ, อคฺคํ ปริโภคปญฺจมํ;<br/>ตุลยิตฺวา ปญฺจ ฐานานิ, ธาเรยฺยตฺถํ วิจกฺขโณ”ติ.",
+     "style": "margin-top: 1mm; font-size: 7pt;"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c09",
+   "title": "ตติยปาราชิก (มนุสสวิคคหะ)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ตติยปาราชิก (มนุสสวิคคหะ)"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "องค์อาบัติ ๕ (ฆ่ามนุษย์)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. คน</b> - มนุสสชาติกปาโณ"
+      },
+      {
+       "html": "<b>2. รู้</b> - ปาณสัญญิตา"
+      },
+      {
+       "html": "<b>3. จิต</b> - วธกจิตตัง"
+      },
+      {
+       "html": "<b>4. เพียร</b> - อุปกกโม"
+      },
+      {
+       "html": "<b>5. ตาย</b> - มรณะ"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปโยคะ ๖"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"grid-mini\"> <div><b>เอง</b> - สาหัตถิกะ</div> <div><b>โยน</b> - นิสสัคคิยะ</div> <div><b>สั่ง</b> - อาณัตติกะ</div> <div><b>วางดัก</b> - ถาวระ</div> <div style=\"grid-column: span 2;\"><b>เวทมนตร์</b> - วิชชามยะ</div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "การวินิจฉัยการสั่งฆ่า ๖"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "ถูกคน · ถูกเวลา · ถูกสถานที่ · อาวุธ · อิริยาบถ · กิริยาวิเศษ"
+      }
+     ],
+     "style": "font-size: 7pt;"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c10",
+   "title": "อานาปานาสติ 4 จตุกกะ (อาการ 16)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อานาปานาสติ 4 จตุกกะ (อาการ 16)"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<b>หมวด กาย:</b> ยาว, สั้น, รู้, ระงับ",
+       "li": true
+      },
+      {
+       "html": "<b>หมวด เวทนา:</b> ปี, สุข, รู้, ระงับ",
+       "li": true
+      },
+      {
+       "html": "<b>หมวด จิต:</b> จิต, เทิง, ตั้ง, เปลื้อง",
+       "li": true
+      },
+      {
+       "html": "<b>หมวด ธรรม:</b> เที่ยง, รา, โรธ, นิส",
+       "li": true
+      }
+     ],
+     "style": "text-align: left;"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c11",
+   "title": "อานาปานสติ 8 วิธี",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อานาปานสติ 8 วิธี"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "นับ",
+      "สืบ",
+      "ถูก",
+      "ฌาน",
+      "นา",
+      "มัค",
+      "ผล",
+      "เวก"
+     ]
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c12",
+   "title": "อสัปปาย 7",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อสัปปาย 7"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "1. อยู่",
+       "li": true
+      },
+      {
+       "html": "2. โค",
+       "li": true
+      },
+      {
+       "html": "3. พูด",
+       "li": true
+      },
+      {
+       "html": "4. คน",
+       "li": true
+      },
+      {
+       "html": "5. หาร",
+       "li": true
+      },
+      {
+       "html": "6. ดู",
+       "li": true
+      },
+      {
+       "html": "7. บถ",
+       "li": true
+      }
+     ],
+     "style": "text-align: left;"
+    },
+    {
+     "type": "html",
+     "html": "<p style=\"text-align: left; font-size: 0.9em; font-style: italic; margin-top: 8px; line-height: 1.5;\"> อาวาโส โคจโร ภสฺสํ, ปุคฺคโล โภชนํ อุตุ;<br/> อิริยาปโถติ สตฺเตเต, อสปฺปาเย วิวชฺชเย.<br/> สปฺปาเย สตฺต เสเวถ, เอวญฺหิ ปฏิปชฺชโต;<br/> นจิเรเนว กาเลน, โหติ กสฺสจิ อปฺปนา. </p>"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c13",
+   "title": "วสี",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วสี"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<b>1. อา</b> - อาวชฺชนวสี",
+       "li": true
+      },
+      {
+       "html": "<b>2. ส</b> - สมาปชฺชนวสี",
+       "li": true
+      },
+      {
+       "html": "<b>3. อ</b> - อธิฏฺฐานวสี",
+       "li": true
+      },
+      {
+       "html": "<b>4. วุฏฺ</b> - วุฏฺฐานวสี",
+       "li": true
+      },
+      {
+       "html": "<b>5. เวก</b> - ปจฺจเวกฺขณวสี",
+       "li": true
+      }
+     ],
+     "style": "text-align: left;"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c14",
+   "title": "วิสุทธิ 7",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วิสุทธิ 7"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<b>สีล</b> - สีลวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>ธิ</b> - จิตฺตวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>เห็น</b> - ทิฏฺฐิวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>สัย</b> - กงฺขาวิตรณวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>ทาง</b> - มคฺคามคฺคญาณทสฺสนวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>ทา</b> - ปฏิปทาญาณทสฺสนวิสุทฺธิ",
+       "li": true
+      },
+      {
+       "html": "<b>ญาณ</b> - ญาณทสฺสนวิสุทฺธิ",
+       "li": true
+      }
+     ],
+     "style": "text-align: left;"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c15",
+   "title": "องค์มรรคขณะกำลังเจริญวิปัสสนา",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "องค์มรรคขณะกำลังเจริญวิปัสสนา"
+    },
+    {
+     "type": "html",
+     "html": "<table style=\"width: 100%; text-align: left; border-collapse: collapse;\"> <thead> <tr> <th style=\"border-bottom: 1px solid #ccc; padding: 6px;\">เจตสิกธรรม</th> <th style=\"border-bottom: 1px solid #ccc; padding: 6px;\">ไตรสิกขา</th> </tr> </thead> <tbody> <tr><td style=\"padding: 6px;\">สติ, วิริยะ =</td><td style=\"padding: 6px;\">อธิศีล</td></tr> <tr><td style=\"padding: 6px;\">เอกัคคตา =</td><td style=\"padding: 6px;\">อธิจิต</td></tr> <tr><td style=\"padding: 6px;\">ปัญญา =</td><td style=\"padding: 6px;\">อธิปัญญา</td></tr> </tbody> </table>"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c16",
+   "title": "แม่บทในเรื่องการฆ่า",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "แม่บทในเรื่องการฆ่า"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<b>เอง</b> - สามํ",
+       "li": true
+      },
+      {
+       "html": "<b>ยืน</b> - อธิฏฺฐาย",
+       "li": true
+      },
+      {
+       "html": "<b>ฑูต</b> - ทูเตน, ทูตปรํปราย, วิสกฺกิเยน ทูเตน, คตปจฺจาคเตน ทูเตน",
+       "li": true
+      },
+      {
+       "html": "<b>ลับ</b> - อรโห รโหสญฺญี, รโห อรโหสญฺญี, อรโห อรโหสญฺญี, รโห รโหสญฺญี",
+       "li": true
+      },
+      {
+       "html": "<b>ณา</b> - กาเยน..., วาจาย..., กาเยน วาจาย..., ทูเตน..., เลขาย สํวณฺเณติ",
+       "li": true
+      },
+      {
+       "html": "<b>หลุม</b> - โอปาตํ",
+       "li": true
+      },
+      {
+       "html": "<b>พิง</b> - อปสฺเสนํ",
+       "li": true
+      },
+      {
+       "html": "<b>วาง</b> - อุปนิกฺขิปนํ",
+       "li": true
+      },
+      {
+       "html": "<b>ยา</b> - เภสชฺชํ",
+       "li": true
+      },
+      {
+       "html": "<b>นำ</b> - รูปู..., สทฺทู..., คนฺธู..., รสู..., โผฏฺฐพฺพู..., ธมฺมูปหาโร",
+       "li": true
+      },
+      {
+       "html": "<b>บอก</b> - อาจิกฺขนา",
+       "li": true
+      },
+      {
+       "html": "<b>สอน</b> - อนุสาสนี",
+       "li": true
+      },
+      {
+       "html": "<b>เก</b> - สงฺเกตกมฺมํ",
+       "li": true
+      },
+      {
+       "html": "<b>มิต</b> - นิมิตฺตกมฺมํ",
+       "li": true
+      }
+     ],
+     "style": "text-align: left;"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c17",
+   "title": "ปฏิจจสมุปบาท ๔ นัย",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปฏิจจสมุปบาท ๔ นัย"
+    },
+    {
+     "type": "html",
+     "html": "<ul class=\"vertical-list\" style=\"text-align: left;\"> <li><b>นัย:</b> เอ, นา, ยา, วํ</li> <li><b>เห็น:</b> เหตุเกิด, ขณะเกิด, เหตุเกิดดับ, เหตุเกิด</li> <li><b>ละ:</b> ขาด, เที่ยง, ตน, ธรรม</li> <hr style=\"border: 0; border-top: 1px dashed #ccc; margin: 8px 0;\"/> <li><b>เอกัตตนัย</b> - เห็นเหตุเกิด - ละอุจเฉททิฐิ</li> <li><b>นานัตตนัย</b> - ขณะเกิด - ละสัสสตทิฏฐิ</li> <li><b>อัพยาปารนัย</b> - เหตุเกิดดับ - ละอัตตทิฏฐิ</li> <li><b>เอวํธัมมตานัย</b> - เหตุเกิด - ละอกิริยทิฐิ</li> </ul>"
+    }
+   ],
+   "tags": [
+    "กรรมฐาน"
+   ]
+  },
+  {
+   "id": "c18",
+   "title": "ปาราชิก ๒๔",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปาราชิก ๒๔"
+    },
+    {
+     "type": "html",
+     "html": "<ul class=\"vertical-list\" style=\"text-align: left; padding-left: 0;\"> <li>๑. เสพ</li> <li>๒. ลัก</li> <li>๓. ฆ่า</li> <li>๔. อวด</li> <li style=\"text-decoration: underline; list-style: none; font-weight: bold; margin: 8px 0;\">ภิกขุณี อสาธารณานิ จตฺตาริ</li> <li>๕. จับ</li> <li>๖. ปิด</li> <li>๗. ตาม</li> <li> <span>๘. แปด</span> <div class=\"pill-row\" style=\"margin-top: 4px;\"> <span class=\"pill\">มือ</span> <span class=\"pill\">ผ้า</span> <span class=\"pill\">ยืน</span> <span class=\"pill\">คุย</span> <span class=\"pill\">นัด</span> <span class=\"pill\">มา</span> <span class=\"pill\">บัง</span> <span class=\"pill\">กาย</span> </div> </li> <li style=\"text-decoration: underline; list-style: none; font-weight: bold; margin: 8px 0;\">เอกาสส อภพฺพปุคฺคลา.</li> <li> <span>๙. เดาะ</span> <div class=\"pill-row\" style=\"margin-top: 4px;\"> <span class=\"pill\">ดูด</span> <span class=\"pill\">ดู</span> <span class=\"pill\">ตัด</span> <span class=\"pill\">ปัก</span> <span class=\"pill\">ปุง</span> </div> </li> <li>๑๐. เถย</li> <li>๑๑. รีด</li> <li>๑๒. ฉาน</li> <li>๑๓-๑๗. กรรม ๕</li> <li>๑๘. นี</li> <li>๑๙. โต</li> <hr style=\"border: 0; border-top: 1px dashed #ccc; margin: 10px 0;\"/> <li>๒๐. นี</li> <li>๒๑. ยาว (ลมพี)</li> <li>๒๒. อ่อน (ของตัวเอง)</li> <li>๒๓. อม (ของคนอื่น)</li> <li>๒๔. นั่ง (นั่งทับของคนอื่น)</li> </ul>"
+    }
+   ],
+   "tags": [
+    "ปาราชิก"
+   ]
+  },
+  {
+   "id": "c19",
+   "title": "อุโบสถ & ปาติโมกข์",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "อุโบสถ & ปาติโมกข์"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ต้นเหตุการบัญญัติอุโบสถ"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "พระเจ้าพิมพิสารทูลขอให้ภิกษุประชุมกันแสดงธรรมในวัน 14, 15 ค่ำ และ 8 ค่ำ ตามอัญเดียรถีย์"
+      },
+      {
+       "html": "<b>อฺญ</b> = อื่น, <b>ติตฺถ</b> = ลัทธิ"
+      },
+      {
+       "html": "ทรงอนุญาตให้สวดปาฏิโมกข์เป็นสังฆกรรมแห่งอุโบสถ"
+      },
+      {
+       "html": "<b>จตุมหาราชสูตร:</b> ลูก 14 ค่ำ / รา 15 ค่ำ / มาต 8 ค่ำ / ถา 5 ค่ำ"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "แสดงธรรมให้ผู้ฟัง"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "เห็น",
+      "ทาน",
+      "อาจ",
+      "เริง"
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปาติโมกข์"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ความหมาย:</b> ศีลใดย่อมรักษาคุ้มครองผู้รักษา ย่อมเปลื้อง (โมกฺเขติ) ผู้นั้นให้พ้นทุกข์/ภัยแห่งการติเตียนตน"
+      },
+      {
+       "html": "<b>อุทเทส 5:</b> นิทาน, ปาราชิก, สังฆาทิเสส, อนิยต, วิตถาร"
+      },
+      {
+       "html": "<b>อุโบสถ 14 ค่ำ:</b> มีเฉพาะเดือนคี่ ในปักษ์ที่ 3 และ 7 (หนาว-ร้อน-ฝน ฤดูละ 8 อุโบสถ)"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อันตราย 10 (ที่งดสวดปาฏิโมกข์ได้)"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "รา",
+      "โจร",
+      "ไฟ",
+      "น้ำ",
+      "มนุษย์",
+      "อมนุษย์",
+      "งู",
+      "ร้าย",
+      "ชี",
+      "พรหม"
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "โอวาทปาฏิโมกข์ 3 คาถา"
+    },
+    {
+     "type": "html",
+     "html": "<ul style=\"list-style: none; padding: 0; margin: 0;\"> <li><span style=\"color: blue;\">ขัน,</span> <span style=\"color: blue;\">พาน,</span> <span style=\"color: blue;\">ชิต,</span> <span style=\"color: blue;\">ณ,</span></li> <li><span style=\"color: blue;\">บาป,</span> <span style=\"color: blue;\">บุญ,</span> <span style=\"color: blue;\">จิต,</span></li> <li><span style=\"color: blue;\">พูด,</span> <span style=\"color: blue;\">ทำ,</span> <span style=\"color: blue;\">โมกข์,</span> <span style=\"color: blue;\">มาน,</span> <span style=\"color: blue;\">น,</span> <span style=\"color: blue;\">จิต,</span></li> </ul>"
+    }
+   ],
+   "tags": [
+    "อุโบสถ"
+   ]
+  },
+  {
+   "id": "c20",
+   "title": "สีมาสมบัติ · สีมา 15",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "สีมาสมบัติ · สีมา 15"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สีมาสมบัติ"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>มิต</b> – นิมิต"
+      },
+      {
+       "html": "<b>ส</b> – ปริส (มา, ฉัน, ไม่ค้าน)"
+      },
+      {
+       "html": "<b>จา</b> – กัมมวาจา"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "แม่ลูก 3 คู่"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"grid-mini\"> <div><b>บ้าน</b> - พัทธสีมา (ผูก)</div> <div><b>ป่า</b> - 7 อัพพันดร (ไม่ผูก)</div> <div style=\"grid-column: span 2;\"><b>เล-น้ำ-สระ</b> - วัก (ไม่ผูก)</div> </div>"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "ย่อ: บ้าน-พัท",
+      "ป่า-7",
+      "เล-วัก"
+     ]
+    },
+    {
+     "type": "verse",
+     "html": "<b>อาบัติที่ไม่ต้องในชมพูทวีป:</b> ไปผูกสีมาในแม่น้ำ/ทะเล ต้องอาบัติทุกกฏ เพราะไม่ใช่แม่ (นิสสยะ)",
+     "style": "background: #fef2f2; border-left-color: #f87171;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สีมันตริก (ช่องว่างระหว่างสีมา)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>มีสีมา 2 ชั้น:</b> ต้องวางหินสีมันตริก กันสีมาคาบเกี่ยว"
+      },
+      {
+       "html": "<b>ไม่มีสีมา 2 ชั้น:</b> ช่องว่างระหว่างสีมา เป็นสีมันตริก"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "สีมา"
+   ]
+  },
+  {
+   "id": "c21",
+   "title": "ปัณณรส สีมา เวทิตพฺพา (สีมา ๑๕)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปัณณรส สีมา เวทิตพฺพา (สีมา ๑๕)",
+     "style": "margin-bottom: 10px;"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"text-align: left; margin-bottom: 8px; font-size: 0.95em; line-height: 1.6;\"> <b>๑. พัทธสีมา ๓:</b> <br/> <strong>ขณฺ</strong>-ขณฺฑสีมา, <strong>มา</strong>-สมานสํวาสสีมา, <strong>วิปฺ</strong>-อวิปฺปวาสสีมา </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"text-align: left; margin-bottom: 8px; font-size: 0.95em; line-height: 1.6;\"> <b>๒. อพัทธสีมา ๑๐:</b> <br/> <strong>คาม</strong>-คามสีมา, <strong>คม</strong>-นิคมสีมา, <strong>คร</strong>-นครสีมา, <strong>ชน</strong>-ชนปทสีมา, <strong>รัฏ</strong>-รฏฺฐสีมา, <strong>รัช</strong>-รชฺชสีมา, <strong>ที</strong>-ทีปสีมา, <strong>วาฬ</strong>-จกฺกวาฬสีมา, <strong>ภัน</strong>-อพฺภนฺตรสีมา, <strong>กุก</strong>-อุทกุกฺเขปสีมา </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"text-align: left; font-size: 0.95em; line-height: 1.6;\"> <b>๓. เนวาพัทธนาพัทธสีมา ๒:</b> <br/> <strong>จาร</strong>-อุปจารสีมา, <strong>ลาภ</strong>-ลาภสีมา </div>"
+    },
+    {
+     "type": "verse",
+     "html": "มหาสีมามี 3 ชื่อ: มหาสีมา / อวิปปวาสสีมา / สมานสังวาสสีมา"
+    }
+   ],
+   "tags": [
+    "สีมา"
+   ]
+  },
+  {
+   "id": "c22",
+   "title": "สีมาวิบัติ 11 · นิมิต 8 · เขตอุปจาร",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "สีมาวิบัติ 11 · นิมิต 8 · เขตอุปจาร"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สีมาวิบัติ 11 ประการ"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"two-cols\" style=\"font-size: 7pt;\"> <div class=\"vertical-item\">1. เล็ก</div> <div class=\"vertical-item\">2. ใหญ่</div> <div class=\"vertical-item\">3. ขาด</div> <div class=\"vertical-item\">4. เงา</div> <div class=\"vertical-item\">5. ไม่มี</div> <div class=\"vertical-item\">6. ภายนอก</div> <div class=\"vertical-item\">7. แม่น้ำ</div> <div class=\"vertical-item\">8. ทะเล</div> <div class=\"vertical-item\">9. สระเกิดเอง</div> <div class=\"vertical-item\">10. คาบเกี่ยว</div> <div class=\"vertical-item\">11. ท่วมทับ</div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "นิมิต 8 อย่าง (ที่ใช้ผูกสีมา)"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "ภูเขา",
+      "ศิลา",
+      "ป่า",
+      "ต้นไม้",
+      "ทาง",
+      "จอมปลวก",
+      "แม่น้ำ",
+      "น้ำ"
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ฆราทิจตุกกะ (เขตบ้าน)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>เรือน</b> – ชายคาน้ำตก"
+      },
+      {
+       "html": "<b>จาร</b> – น้ำ, ด้ง, กวาดรั้ว"
+      },
+      {
+       "html": "<b>บ้าน</b> – รั้ว, ดิน"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อุปจารสีมา 9"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "เข้า",
+      "ลา",
+      "วาส",
+      "นัต",
+      "สา",
+      "เส",
+      "สัย",
+      "แจก",
+      "ถิ่น"
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เขตบอกวัดปริวาส/มานัต"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ในวัด:</b> จาร, เห็น, ฟัง"
+      },
+      {
+       "html": "<b>นอกวัด:</b> 12, เห็น, ฟัง"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "สีมา"
+   ]
+  },
+  {
+   "id": "c23",
+   "title": "สังฆกรรม ๔ ประเภท",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "สังฆกรรม ๔ ประเภท"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"grid-mini\"> <div><b>โล, ญัติ, ทุ, ตุ</b></div> <div><b>5, 9, 7, 7</b> </div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "อปโลกนกมฺม ๕"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. โอ</b> - โอสารณา - เณร"
+      },
+      {
+       "html": "<b>2. นิ</b> - นิสฺสารณา - เณร (ทัณฑกรรม)"
+      },
+      {
+       "html": "<b>3. ภณฺ</b> - ภณฺฑุกมฺมํ - เณร"
+      },
+      {
+       "html": "<b>4. พรหม</b> - พฺรหฺมทณฺฑํ - ฉนฺ"
+      },
+      {
+       "html": "<b>5. ลกฺ</b> - กมฺมลกฺขณํ - ไหว้ (อวันทนียกรรม)"
+      }
+     ],
+     "style": "font-size: 6.8pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ญตฺติกมฺม ๙",
+     "style": "margin-top: 1mm;"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. โอ</b> - โอสารณา - บวช"
+      },
+      {
+       "html": "<span><b>2. นิ</b> - นิสฺสารณา - ธรรมกถึก (อุพพาหิกวิธี)</span> <span style=\"color: var(--red); \">[✗] ไม่ใช้ สงฺโฆ</span>",
+       "cls": "flex-between"
+      },
+      {
+       "html": "<b>3. สถ</b> - อุโปสโถ - อุโบสถ"
+      },
+      {
+       "html": "<b>4. นา</b> - ปวารณา - ปวารณา"
+      },
+      {
+       "html": "<b>5. มุติ</b> - สมฺมติ - สอนอันตรายิกธรรม"
+      },
+      {
+       "html": "<span><b>6. ให้</b> - ทานํ - บาตร</span> <span style=\"color: #475569;\">[✓ ✗] มีทั้งใช้และไม่ใช้ สงฺโฆ</span>",
+       "cls": "flex-between"
+      },
+      {
+       "html": "<span><b>7. รับ</b> - ปฏิคฺคโห - อาบัติ</span> <span style=\"color: #475569;\">[✓ ✗] มีทั้งใช้และไม่ใช้ สงฺโฆ</span>",
+       "cls": "flex-between"
+      },
+      {
+       "html": "<span><b>8. เลื่อน</b> - ปจฺจุกฺกฑฺฒนา - ปวารณา</span> <span style=\"color: var(--red); \">[✗] ไม่ใช้ สงฺโฆ</span>",
+       "cls": "flex-between"
+      },
+      {
+       "html": "<span><b>9. ลกฺ</b> - กมฺมลกฺขณํ- หญ้า 3 (รวม แยก แยก)</span> <span style=\"color: #475569;\">[✓ ✗] มีทั้งใช้และไม่ใช้ สงฺโฆ</span>",
+       "cls": "flex-between"
+      }
+     ],
+     "style": "font-size: 6.5pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ญตฺติตุติยกมฺม ๗",
+     "style": "margin-top: 1mm;"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. โอ</b> - โอสารณา - สก"
+      },
+      {
+       "html": "<b>2. นิ</b> - นิสฺสารณา - สก"
+      },
+      {
+       "html": "<b>3. มุต</b> - สมฺมุติ - <span class=\"text-red\">13</span>"
+      },
+      {
+       "html": "<b>4. ให้</b> - ทานํ - ถิน"
+      },
+      {
+       "html": "<b>5. เดาะ</b> - อุทฺธาโร - ถิน"
+      },
+      {
+       "html": "<b>6. แดง</b> - เทสนา - ที่"
+      },
+      {
+       "html": "<b>7. ลก</b> - กมฺมลกฺขณํ - หญ้า 2"
+      }
+     ],
+     "style": "font-size: 6.8pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ญตฺติจตุตฺถกมฺม ๗",
+     "style": "margin-top: 1mm;"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. โอ</b> - โอสารณา - 7 <span style=\"color: #475569; font-size: 6.2pt;\">(เรียก <span class=\"text-red\">ตัช นิ พา สา เข3</span> เข้าหมู่)</span>"
+      },
+      {
+       "html": "<b>2. นิ</b> - นิสสารณา - 7 <span style=\"color: #475569; font-size: 6.2pt;\">(ขับออกด้วย <span class=\"text-red\">ตัช นิ พา สา เข3</span>)</span>"
+      },
+      {
+       "html": "<b>3. มุต</b> - สมมุติ - โอวาทภิกษุณี"
+      },
+      {
+       "html": "<b>4. ให้</b> - ทานํ - วาส"
+      },
+      {
+       "html": "<b>5. ข่ม</b> - นิคฺคโห - ขัก"
+      },
+      {
+       "html": "<b>6. ภาส</b> - สมุนุภาสนา - 11"
+      },
+      {
+       "html": "<b>7. ลก</b> - กรรมลักษณะ - บวช, ภาน"
+      }
+     ],
+     "style": "font-size: 6.8pt;"
+    }
+   ],
+   "tags": [
+    "สังฆกรรม"
+   ]
+  },
+  {
+   "id": "c24",
+   "title": "สังฆาทิเสส ๑-๒ & วุฏฐานวิธี",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "สังฆาทิเสส ๑-๒ & วุฏฐานวิธี"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สังฆาทิเสสข้อ ๑ (ปล่อยสุกกะ)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>แข็ง 5:</b> คะ, หนัก, เบา, ลม, หนอน"
+      },
+      {
+       "html": "<b>ประสงค์ 10:</b> โรค สุข ยา ทาน บุญ ยัญ สวรรค์ พืช ลอง เล่น"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สังฆาทิเสสข้อ ๒ (จับต้องกาย)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>คลุกคลี:</b> สัมผัส-เห็น-ฟัง-พูด-ใช้-กาย"
+      },
+      {
+       "html": "<b>องค์อาบัติ:</b> หญิง-รู้-ราคะ-พยายาม-ถึงความสัมผัส"
+      }
+     ]
+    },
+    {
+     "type": "verse",
+     "html": "สังฆาทิเสโส = อาบัติที่ต้องอาศัยสงฆ์ทั้งเบื้องต้นและเบื้องปลายในการออก"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วุฏฐานวิธี (ปริวาส · มานัต)"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"grid-mini\"> <div><b>ปริวาส 4:</b> ไม่-ปิด-สุท-รวม</div> <div><b>มานัต 4:</b> ไม่-ปิด-รวม-ปักขะ</div> <div style=\"grid-column: span 2;\"><b>รัตติเฉท 4:</b> สหวาส วิปปวาส อนาโรจนา พร่องคณะ</div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "บุคคล ๕ ในการออกจากอาบัติ"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "ปาริวาสิก · มูลายปฏิกัสสนารหะ · มานัตตารหะ · มานัตตจาริก · อัพภานารหะ (วัตร 94 ข้อ)"
+      }
+     ],
+     "style": "font-size: 7pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "การปิดอาบัติ (ตามกุณาลชาดก)"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "ชอบ",
+      "ลับ",
+      "กาส (แสดงออก)"
+     ]
+    }
+   ],
+   "tags": [
+    "สังฆาทิเสส"
+   ]
+  },
+  {
+   "id": "c25",
+   "title": "สถานที่เก็บจีวร ๑๕ (เอกูปจาร-นานูปจาร)",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สถานที่เก็บจีวร ๑๕ (เอกูปจาร-นานูปจาร)"
+    },
+    {
+     "type": "items",
+     "wrap": "ul",
+     "items": [
+      {
+       "html": "<b>๑. บ้าน</b> - คาโม",
+       "li": true
+      },
+      {
+       "html": "<b>๒. เรือน</b> - นิเวสนํ",
+       "li": true
+      },
+      {
+       "html": "<b>๓. เก็บ</b> - อุโทสิโต",
+       "li": true
+      },
+      {
+       "html": "<b>๔. ป้อม</b> - อฏฺโฏ",
+       "li": true
+      },
+      {
+       "html": "<b>๕. โรง</b> - มาโฬ",
+       "li": true
+      },
+      {
+       "html": "<b>๖. สาท</b> - ปาสาโท",
+       "li": true
+      },
+      {
+       "html": "<b>๗. โล้น</b> - หมฺมิยํ",
+       "li": true
+      },
+      {
+       "html": "<b>๘. เรือ</b> - นาวา",
+       "li": true
+      },
+      {
+       "html": "<b>๙. เกวียน</b> - สตฺโถ",
+       "li": true
+      },
+      {
+       "html": "<b>๑๐. นา</b> - เขตฺตํ",
+       "li": true
+      },
+      {
+       "html": "<b>๑๑. ลาน</b> - ธญฺญกรณํ",
+       "li": true
+      },
+      {
+       "html": "<b>๑๒. สวน</b> - อาราโม",
+       "li": true
+      },
+      {
+       "html": "<b>๑๓. วัด</b> - วิหาโร",
+       "li": true
+      },
+      {
+       "html": "<b>๑๔. ไม้</b> - รุกฺขมูลํ",
+       "li": true
+      },
+      {
+       "html": "<b>๑๕. แจ้ง</b> - อชฺโฌกาโส",
+       "li": true
+      },
+      {
+       "html": "*(ทุกคำใช้บทขยาย: เอกูปจาโร / นานูปจาโร)*",
+       "li": true,
+       "style": "font-size: 0.85em; color: #666; margin-top: 6px; list-style: none;"
+      }
+     ],
+     "style": "text-align: left;"
+    }
+   ],
+   "tags": [
+    "จีวร"
+   ]
+  },
+  {
+   "id": "c26",
+   "title": "กฐิน จีวร และ เภสัช",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "กฐิน จีวร และ เภสัช"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปริโพธิ ๕ (ความกังวล)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>จีวร:</b> เสร็จ, ใจ(ยังไม่ตัดใจ), เสีย, หวัง, เขต/พร้อม"
+      },
+      {
+       "html": "<b>อาวาส:</b> หลีก, ใจ, ฟัง, เขต, พร้อม"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ธรรม ๘ ประการแห่งกฐิน"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "กรณ์ (ตัด-เย็บ-ย้อม) · ถอน 3 · ฐาน 3 · กราน 3 · กา(เดาะ) 8 · โพธิ 2 · เดาะ 8 · สงฆ์ 5"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ผ้าอธิษฐาน ๙ & เหตุขาดอธิษฐาน ๙"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ผ้า 9:</b> อันตรวาสก · อุตราสงค์ · สังฆาฏิ · นิสีทนะ · ปูนอน · อาบน้ำฝน · ปิดฝี · เช็ดหน้า · บริขารโจล"
+      },
+      {
+       "html": "<b>ขาด 9:</b> ให้ · โจรลัก · ถือวิสาสะ · เลว(สละ) · ครบกาล · กลับเพศ · ถอนเอง · สึก · ทะลุ"
+      }
+     ],
+     "style": "font-size: 7pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ขนาดผ้า (ประมาณการ)"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"grid-mini\"> <div><b>สุคตจีวร:</b> 9×6 คืบ</div> <div><b>จีวร/สังฆาฏิ:</b> 5×3 ศอกกำ</div> <div><b>สบง:</b> 5×2 ศอกกำ</div> <div><b>ผ้าอาบน้ำฝน:</b> 6×2.5 คืบ</div> <div><b>นิสีทนะ:</b> 2×1.5 คืบ + ชาย 1 คืบ</div> <div><b>ผ้าปิดฝี:</b> 4×2 คืบ</div> </div>"
+    },
+    {
+     "type": "verse",
+     "html": "1 ศอกกำ ≈ 48 ซม. · 1 คืบ ≈ 75 ซม."
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วัสสิกสาฏิกา (ผ้าอาบน้ำฝน)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ปิฏฐิสมัย (หลังสุดร้อน):</b> แสวงหาผ้า"
+      },
+      {
+       "html": "<b>กุจฉิสมัย (ครึ่งเดือนสุดร้อน):</b> ทำและนุ่งได้"
+      },
+      {
+       "html": "<b>อธิกมาส:</b> 3 ปีมี 1 ครั้ง (พม่า: 8 ปีมีได้ 3 ครั้ง) ปีนั้นมี 13 เดือน"
+      }
+     ],
+     "style": "font-size: 7pt;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เภสัช (กาลิก ๔ & โครส ๕)"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "ยาวกาลิก",
+      "ยามกาลิก",
+      "สัตตาหกาลิก",
+      "ยาวชีวิก"
+     ]
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ปัญจโครส:</b> นม · นมส้ม · เปรียง · เนยข้น · เนยใส"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "โอทิสฺส ๗"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1. ไข้</b> - ผี"
+      },
+      {
+       "html": "<b>2. คล</b> - อ้วก"
+      },
+      {
+       "html": "<b>3. กาล</b> - งู"
+      },
+      {
+       "html": "<b>4. มัย</b> - ฉัน"
+      },
+      {
+       "html": "<b>5. เทส</b> - บวช"
+      },
+      {
+       "html": "<b>6. เปลว</b> - เปลว"
+      },
+      {
+       "html": "<b>7. ยา</b> - ยา (5)"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เนื้อ ๑๐ ชนิดต้องห้าม"
+    },
+    {
+     "type": "pills",
+     "items": [
+      "มนุษย์",
+      "ม้า",
+      "หมา",
+      "หมี",
+      "ราชสีห์",
+      "เสือโคร่ง",
+      "เสือดาว",
+      "เสือเหลือง",
+      "ช้าง",
+      "งู"
+     ]
+    },
+    {
+     "type": "verse",
+     "html": "เนื้อดิบและอุททิสมังสะ (เจาะจงฆ่าถวาย) ก็ต้องห้ามเช่นกัน"
+    }
+   ],
+   "tags": [
+    "จีวร",
+    "เภสัช"
+   ]
+  },
+  {
+   "id": "c27",
+   "title": "พุทธอาจิณ ๔ & สาวกอาจิณ ๒",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "พุทธอาจิณ ๔ & สาวกอาจิณ ๒"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "พุทธอาจิณ ๔ (ลา - เที่ยว - ถาร - ตรวจ)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b class=\"text-blue\">๑. ลา</b> - ลาผู้นิมนต์จำพรรษา"
+      },
+      {
+       "html": "<b class=\"text-blue\">๒. เที่ยว</b> - จาริก ๓ มณฑล (เดือน / ร้อยโยชน์) <div class=\"pill-row\" style=\"margin-top: 0.5mm;\"> <span class=\"pill\">เดือน: 9 - 8 - 7</span> <span class=\"pill\">โยชน์: 9 - 6 - 3 (ร้อย)</span> </div>"
+      },
+      {
+       "html": "<b class=\"text-blue\">๓. ถาร</b> - เพื่อแสดงธรรม และ บัญญัติสิกขาบท"
+      },
+      {
+       "html": "<b class=\"text-blue\">๔. ตรวจ</b> - ตรวจสัตวโลก <div class=\"vertical-list\" style=\"padding-left: 2mm; font-size: 7pt; margin-top: 0.3mm;\"> <div>• <b>เช้า:</b> ขอบจักรวาล ➔ คันธกุฎี</div> <div>• <b>บ่าย:</b> คันธกุฎี ➔ ขอบจักรวาล</div> </div>"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "สาวกอาจิณ ๒ (ก่อน - หลัง)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b class=\"text-red\">๑. ก่อน</b> - ลาอุปัชฌาย์อาจารย์ก่อนออกจาริก"
+      },
+      {
+       "html": "<b class=\"text-red\">๒. หลัง</b> - กลับมากราบไหว้รายงานตัวหลังกลับจากจาริก"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "ทั่วไป"
+   ]
+  },
+  {
+   "id": "c28",
+   "title": "วัตถุอาบัติ & วินัยการรับปัจจัย",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "วัตถุอาบัติ & วินัยการรับปัจจัย"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1.5mm;\"> <div style=\"flex: 1;\"> <h3>วัตถุนิสสัคคีย์ (๔)</h3> <div class=\"vertical-list\" style=\"font-size: 7pt;\"> <div class=\"vertical-item\">1. <b>เงิน</b> - รชตํ</div> <div class=\"vertical-item\">2. <b>ทอง</b> - สุวณฺณํ</div> <div class=\"vertical-item\">3. <b>กหาปณะ</b> - กหาปโณ</div> <div class=\"vertical-item\">4. <b>มาสก</b> - มาสโก</div> </div> </div> <div style=\"flex: 1.2;\"> <h3>ธัญพืช ๗</h3> <div class=\"vertical-list\" style=\"font-size: 7pt;\"> <div class=\"vertical-item\">1. <b>ลี</b> - สาลิ</div> <div class=\"vertical-item\">2. <b>เปลือก</b> - วีหิ</div> <div class=\"vertical-item\">3. <b>แก้</b> - กุทฺธูสโก</div> <div class=\"vertical-item\">4. <b>มาน</b> - โครุโม</div> <div class=\"vertical-item\">5. <b>เดือย</b> - วรโก</div> <div class=\"vertical-item\">6. <b>เหนียว</b> - ยโว</div> <div class=\"vertical-item\">7. <b>ฟ้าว</b> - กงฺคุ</div> </div> </div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วัตถุทุกกุฏ (๑๓) <span style=\"font-weight: normal; font-size: 6.5pt; color: #64748b;\">(ทุกกฎวัตถุ)</span>"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"two-cols\" style=\"font-size: 6.8pt;\"> <div class=\"vertical-item\">1. <b>ดา</b> - มุตฺตา</div> <div class=\"vertical-item\">2. <b>นี</b> - มณิ</div> <div class=\"vertical-item\">3. <b>ฑูร</b> - เวฬุริโย</div> <div class=\"vertical-item\">4. <b>สัง</b> - สงฺโข</div> <div class=\"vertical-item\">5. <b>ลา</b> - สิลา</div> <div class=\"vertical-item\">6. <b>พาฬ</b> - ปวาฬํ</div> <div class=\"vertical-item\">7. <b>แดง</b> - โลหิตงฺโก</div> <div class=\"vertical-item\">8. <b>กต</b> - มสารคลฺลํ</div> <div class=\"vertical-item\">9. <b>ข้าว</b> - สตฺต ธญฺญานิ</div> <div class=\"vertical-item\">10. <b>ทาส</b> - ทาสิทาส</div> <div class=\"vertical-item\">11. <b>นา</b> - เขตฺต</div> <div class=\"vertical-item\">12. <b>ไร่</b> - วตฺถุ</div> <div class=\"vertical-item\" style=\"grid-column: span 2;\">13. <b>สวน</b> - ปุปฺผารามผลารามาทโยติ</div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"text-align: center; font-size: 6.5pt; color: var(--navy); font-weight: bold; margin-top: 0.5mm;\"> อิมานิ ทุกฺกฎวตฺถูนิ </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เมณฑกสิกขาบท (บาลี)"
+    },
+    {
+     "type": "verse",
+     "html": "สนฺติ, ภิกฺขเว, มนุสฺสา, สทฺธา ปสนฺนา, เต กปฺปิยการกานํ หตฺเถ หิรญฺญํ อุปนิกฺขิปนฺติ – ‘อิมินา อยฺยสฺส ยํ กปฺปิยํ ตํ เทถา’ติ. อนุชานามิ, ภิกฺขเว, ยํ ตโต กปฺปิยํ ตํ สาทิตุํ; น ตฺเววาหํ, ภิกฺขเว, เกนจิ ปริยาเยน ชาตรูปรชตํ สาทิตพฺพํ ปริเยสิตพฺพนฺติ วทามี’’ติ.",
+     "style": "font-size: 6.5pt; line-height: 1.35;"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วินัยการสั่งถวายผ่านไวยาวัจกร",
+     "style": "background: #eef3f9; padding: 0.5mm 1mm; border-radius: 2px;"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"font-size: 6.2pt; color: var(--red); text-align: right; font-weight: bold; margin-top: -0.5mm;\"> สญฺญตฺโต โส มยา </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border-left: 2px solid var(--blue); padding-left: 1.5mm; margin-top: 1mm;\"> <div class=\"text-blue\" style=\"font-weight: bold; font-size: 7.2pt;\">๑. ราชสิกขาบท</div> <div class=\"vertical-list\" style=\"font-size: 6.8pt; margin: 0;\"> <div class=\"vertical-item\"> <b>1. มอบ:</b> โยมมอบเงิน/ปัจจัยเท่านั้นไว้ในมือโยมชื่อนี้ <div class=\"highlight-box\" style=\"margin: 0.3mm 0; padding: 0.3mm 0.8mm; font-size: 6.5pt;\"> “โยมได้มอบปัจจัย......บาท ไว้กับโยมชื่อ..........(สมชายเป็นต้น)” </div> </div> <div class=\"vertical-item\"> <b>2. สั่ง:</b> สั่งเขาไว้แล้วว่าช่วยจัดหาสิ่งที่สมควรถวายพระคุณเจ้าด้วย <div class=\"highlight-box\" style=\"margin: 0.3mm 0; padding: 0.3mm 0.8mm; font-size: 6.5pt;\"> “บอกเขาไว้แล้วว่าช่วยจัดหา (สิ่งที่สมควร) ถวายพระคุณเจ้าด้วย” </div> </div> <div class=\"vertical-item\"> <b>3. นิมนต์:</b> นิมนต์พระคุณเจ้าใช้สอยสิ่งที่สมควร </div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border-left: 2px solid #0284c7; padding-left: 1.5mm; margin-top: 1.5mm;\"> <div style=\"font-weight: bold; font-size: 7.2pt; color: #0284c7;\">๒. เมณฑกสิกขาบท</div> <div class=\"vertical-list\" style=\"font-size: 6.8pt; margin: 0;\"> <div class=\"vertical-item\"> <b>1. มอบ:</b> *เงิน.....฿ จักมีในมือของโยมชื่อนี้ </div> <div class=\"vertical-item\"> <b>2. นิมนต์:</b> นิมนต์พระคุณเจ้าใช้สอยปัจจัยที่สมควร </div> </div> <div style=\"color: var(--red); font-size: 6.3pt; font-style: italic; margin-top: 0.3mm;\"> * โยมเจ้าของทรัพย์แสดงไวยาวัจกรเอง </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border-left: 2px solid #64748b; padding-left: 1.5mm; margin-top: 1.5mm;\"> <div style=\"font-weight: bold; font-size: 7.2pt; color: #334155;\">๓. รูปิยสิกขาบท</div> <div class=\"vertical-list\" style=\"font-size: 6.8pt; margin: 0;\"> <div class=\"vertical-item\">- ภิกษุกล่าวว่าที่นั้นสามารถคุ้มครองได้</div> <div class=\"vertical-item\"> - นิมนต์รับปัจจัยที่สมควรมีมูลค่า....฿ จากกระผม หรือนิมนต์แสดงสถานที่ที่คุ้มครองได้ ให้ด้วยครับ </div> </div> <div style=\"color: var(--red); font-size: 6.3pt; font-style: italic; margin-top: 0.3mm;\"> * โยมคนอื่นที่ไม่ใช่เจ้าของทรัพย์แสดงตนเป็นไวยาวัจกร </div> </div>"
+    }
+   ],
+   "tags": [
+    "ปัจจัย"
+   ]
+  },
+  {
+   "id": "c29",
+   "title": "ไวยาวัจกร ๑๐ & การแสดงกัปปิยการก",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ไวยาวัจกร ๑๐ & การแสดงกัปปิยการก"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ไวยาวัจกร ๑๐"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ภิกษุแสดง ๔</b> <div style=\"padding-left: 2mm; margin-top: 0.3mm;\"> • <b>หน้า ๑:</b> ทวง ๓ ยืน ๖ <span style=\"color: var(--red); font-weight: 600;\">(ราชสิกขาบท)</span><br/> • <b>หลัง ๓:</b> ไป-บอก, ไป-สั่งบอก, ก่อนไป-บอก </div>"
+      },
+      {
+       "html": "<b>ทูตแสดง ๔ - ไม่จำกัด ใน <span style=\"color: var(--red);\">เมณฑกสิกขาบท</span>:</b> <div style=\"padding-left: 2mm; margin-top: 0.3mm;\"> • เสนอหน้า ๑<br/> • ลับหลัง ๑ </div>"
+      }
+     ],
+     "style": "font-size: 7pt;"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"border-left: 2px solid var(--blue); padding-left: 1.5mm; margin-top: 1mm;\"> <div class=\"flex-between\"> <b class=\"text-blue\" style=\"font-size: 7.2pt;\">ราชสิกขาบท</b> <span style=\"font-size: 6pt; color: var(--red); font-weight: bold;\">สญฺญตฺโต โส มยา</span> </div> <div class=\"vertical-list\" style=\"font-size: 6.8pt; margin: 0;\"> <div class=\"vertical-item\"><b>มอบ</b> - โยมมอบเงิน/ปัจจัยเท่านั้นไว้ในมือโยมชื่อนี้</div> <div class=\"vertical-item\"><b>สั่ง</b> - สั่งเขาไว้แล้วว่าช่วยจัดหาสิ่งที่สมควรถวายพระคุณเจ้าด้วย</div> <div class=\"vertical-item\"><b>นิมนต์</b> - นิมนต์ใช้สอยสิ่งที่สมควร</div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"card\" style=\"margin-top: 1mm;\"> <h3>กัปปิยการกที่ทูตแสดงเอง</h3> <div style=\"font-style: italic; color: #555; margin-bottom: 8px; font-size: 0.95em;\"> \"กปฺปิยการกานํ วา หตฺเถ ภวิสฺสติ มม ปุริสานํ วา มยฺหํ วา หตฺเถ ภวิสฺสติ เกวลํ ตุมฺเห ปจฺจเย ปริภุญฺชถา‛ติ วทติ วฏฺฏติ.\" </div> <ul class=\"vertical-list\" style=\"text-align: left;\"> <li>• เงิน.....฿ จักมีในมือของโยมชื่อนี้ นิมนต์พระคุณเจ้าใช้สอยปัจจัยที่สมควร</li> <li>• เงิน.....฿ จักมีในมือของโยม นิมนต์พระคุณเจ้าใช้สอยปัจจัยที่สมควร</li> </ul> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"card\" style=\"margin-top: 1mm;\"> <h3>กัปปิยการกที่ภิกษุแสดง / ใบปวารณา</h3> <div style=\"font-size: 0.85em; color: #666; margin-bottom: 8px;\"> (ใช้แจ้งกับพระภิกษุหลังจากที่มอบปัจจัยให้ไวยาวัจกรแล้วตามปาติโมกขภาสาฎีกา) </div> <ul class=\"vertical-list\" style=\"text-align: left;\"> <li> <strong>1. มอบ (ทสฺสามิ / ทินฺนํ):</strong><br/> โยมได้มอบปัจจัย......บาท ไว้กับโยมชื่อ.......... (สมชายเป็นต้น)<br/> <span style=\"font-size: 0.85em; color: #555;\">(อหํ ภนฺเต อสุกสฺส นาม หตฺเถ จีวรเจตาปนฺนํ ทสฺสามิ, ทินฺนํ มยา ภนฺเต ตสฺส หตฺเถ จีวรเจตาปนฺนํ.)</span> </li> <li style=\"margin-top: 8px;\"> <strong>2. สั่ง (อาณตฺโต):</strong><br/> บอกเขาไว้แล้วว่าช่วยจัดหา (สิ่งที่สมควร) ถวายพระคุณเจ้าด้วย<br/> <span style=\"font-size: 0.85em; color: #555;\">(เถรสฺส จีวรํ กิณิตฺวา เทหีติ อาณตฺโต โส มยา, ยทา ตุมฺหากํ จีวเรน อตฺโถ จีวรํ ทสฺสตุ.)</span> </li> <li style=\"margin-top: 8px;\"> <strong>3. นิมนต์ (คณฺเหยฺยาถ / ปริภุญฺชถ):</strong><br/> นิมนต์พระคุณเจ้าใช้สอยสิ่งที่สมควร<br/> <span style=\"font-size: 0.85em; color: #555;\">(จตฺตาโร ปจฺจเย ปริภุญฺชถา ติ วทติ วฏฺฏติ.)</span> </li> </ul> <hr style=\"border: 0; border-top: 1px dashed #ccc; margin: 12px 0;\"/> <div style=\"font-size: 0.9em; text-align: left;\"> <b>คำแปลศัพท์สำคัญ:</b><br/> • จีวรเจตาปนฺนํ = <i>เอตฺตกํ รูปิยํ (เงินจำนวนเท่านี้)</i><br/> • จีวรํ = <i>กปฺปิยวตฺถุ (วัตถุที่สมควร)</i><br/> • อสุกสฺส = <i>อิตฺถนฺนามสฺส (ชื่อโน้น...)</i> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"card\" style=\"margin-top: 1mm;\"> <h3>แบบพระเถระพม่า (ตามปาติโมกขภาสาฎีกา หน้า 165)</h3> <ul class=\"vertical-list\" style=\"text-align: left;\"> <li>• นิมนต์รับปัจจัยที่สมควรมีมูลค่า .... ฿ จากกระผม</li> <li>• หรือนิมนต์แสดงสถานที่ที่คุ้มครองได้ ให้ด้วยครับ</li> </ul> </div>"
+    }
+   ],
+   "tags": [
+    "ปัจจัย"
+   ]
+  },
+  {
+   "id": "c30",
+   "title": "ขนาดผ้าและมาตราจีวรต่างๆ",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "ขนาดผ้าและมาตราจีวรต่างๆ"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1mm; margin-bottom: 1mm;\"> <div style=\"flex: 1; border: 1px dashed #e2e8f0; padding: 0.8mm; border-radius: 2px; background: #f8fafc;\"> <div style=\"font-weight: bold; font-size: 6.8pt; color: #0f172a;\">ขนาดผ้าควรอธิษฐาน</div> <div style=\"font-size: 6.5pt; color: #475569; margin-top: 0.3mm;\"> • กว้าง ≈ 25 ซม. (4 นิ้ว)<br/> • ยาว ≈ 50 ซม. (8 นิ้ว) </div> </div> <div style=\"flex: 1.2; border: 1px solid #cbd5e1; padding: 0.8mm; border-radius: 2px; background: #fff;\"> <div style=\"font-weight: bold; font-size: 6.8pt; color: var(--navy);\">ขนาดสุคตจีวร</div> <div style=\"font-size: 6.5pt; color: #334155; margin-top: 0.3mm;\"> • ยาว 9 คืบ ≈ 675 ซม.<br/> • กว้าง 6 คืบ ≈ 450 ซม. </div> </div> </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ขนาดที่เล็กที่สุด (จีวร, สังฆาฏิ, สบง)",
+     "style": "margin-top: 1mm;"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"vertical-list\" style=\"font-size: 6.8pt;\"> <!-- จีวร/สังฆาฏิ --> <div class=\"vertical-item\"> <b class=\"text-blue\">ขนาด จีวร/สังฆาฏิ</b><br/> • ยาว 5 ศอกกำ ≈ 230 ซม. | กว้าง 3 ศอกกำ ≈ 144 ซม.<br/> <div class=\"highlight-box\" style=\"margin: 0.5mm 0 0 0; padding: 0.3mm 0.6mm; font-size: 6.2pt; background: #fffbebf8; border-color: #fde68a;\"> <b>บริเวณที่ทะลุแล้วขาดอธิษฐาน:</b> 1 คืบ 8 นิ้ว (ยาว 8 / กว้าง 1) </div> </div> <!-- สบง --> <div class=\"vertical-item\"> <b class=\"text-blue\">ขนาดสบง</b><br/> • ยาว 5 ศอกกำ ≈ 230 ซม. | กว้าง 2 ศอกกำ ≈ 96 ซม.<br/> <div class=\"highlight-box\" style=\"margin: 0.5mm 0 0 0; padding: 0.3mm 0.6mm; font-size: 6.2pt; background: #fffbebf8; border-color: #fde68a;\"> <b>บริเวณที่ทะลุแล้วขาดอธิษฐาน:</b> 1 คืบ 4 นิ้ว (ยาว 4 / กว้าง 1) </div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"font-size: 6.5pt; color: var(--red); font-weight: bold; text-align: right; margin-top: 0.3mm;\"> 1 ศอกกำ ≈ 48 ซม. </div>"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ผ้าบริขารอื่นๆ",
+     "style": "margin-top: 1mm;"
+    },
+    {
+     "type": "html",
+     "html": "<div class=\"vertical-list\" style=\"font-size: 6.8pt;\"> <!-- ผ้าอาบน้ำฝน --> <div class=\"vertical-item\"> <b>ขนาดผ้าอาบน้ำฝน</b><br/> • ยาว 6 คืบ ≈ 450 ซม. | กว้าง 2.5 คืบ ≈ 187.5 ซม. </div> <!-- ผ้านิสีทนะ --> <div class=\"vertical-item\"> <b>ขนาดผ้านิสีทน</b><br/> • ยาว 2 คืบ ≈ 150 ซม. | กว้าง 1.5 คืบ ≈ 112.5 ซม. <br/> • ชาย 1 คืบ ≈ 75 ซม. <span style=\"color: #475569;\">(รวมความยาวพร้อมชาย ≈ 187.5 ซม.)</span> </div> <!-- ผ้าปิดฝี --> <div class=\"vertical-item\"> <b>ผ้าปิดฝี</b><br/> • ยาว 4 คืบ ≈ 300 ซม. | กว้าง 2 คืบ ≈ 150 ซม. </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"font-size: 6.5pt; color: var(--red); font-weight: bold; text-align: right; margin-top: 0.3mm;\"> 1 คืบ ≈ 75 ซม. </div>"
+    }
+   ],
+   "tags": [
+    "จีวร",
+    "มาตรา"
+   ]
+  },
+  {
+   "id": "c31",
+   "title": "๑. จีวรวคฺโค · ๑. กฐินสิกฺขาปทวณฺณนา",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "๑. จีวรวคฺโค · ๑. กฐินสิกฺขาปทวณฺณนา"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1mm; margin-bottom: 1mm;\"> <div style=\"flex: 1; border-right: 1px dashed var(--border); padding-right: 1mm;\"> <h3>มาติกา ๘</h3> <div class=\"vertical-list\" style=\"font-size: 6.8pt;\"> <div class=\"vertical-item\">1. หลีก</div> <div class=\"vertical-item\">2. เสร็จ</div> <div class=\"vertical-item\">3. ใจ</div> <div class=\"vertical-item\">4. เสีย</div> <div class=\"vertical-item\">5. ฟัง</div> <div class=\"vertical-item\">6. หวัง</div> <div class=\"vertical-item\">7. เขต</div> <div class=\"vertical-item\">8. พร้อม</div> </div> </div> <div style=\"flex: 1; border-right: 1px dashed var(--border); padding-right: 1mm;\"> <h3>จีวรปริโพธิ ๕</h3> <div class=\"vertical-list\" style=\"font-size: 6.8pt;\"> <div class=\"vertical-item\">1. เสร็จ</div> <div class=\"vertical-item\">2. ใจ</div> <div class=\"vertical-item\">3. เสีย</div> <div class=\"vertical-item\">4. หวัง</div> <div class=\"vertical-item\">5. เขต</div> <div class=\"vertical-item\">6. พร้อม</div> </div> </div> <div style=\"flex: 1;\"> <h3>อาวาสปริโพธิ ๕</h3> <div class=\"vertical-list\" style=\"font-size: 6.8pt;\"> <div class=\"vertical-item\">1. หลีก</div> <div class=\"vertical-item\">2. ใจ</div> <div class=\"vertical-item\">3. ฟัง</div> <div class=\"vertical-item\">4. เขต</div> <div class=\"vertical-item\">5. พร้อม</div> </div> </div> </div>"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1.5mm; margin-top: 1mm;\"> <!-- ผ้าอธิษฐาน 9 --> <div style=\"flex: 1.8;\"> <h3>ผ้าอธิษฐาน ๙ (อิมํ... อธิฏฺฐามิ / ปจฺจุทฺธรามิ)</h3> <div class=\"vertical-list\" style=\"font-size: 6.5pt;\"> <div class=\"vertical-item\"> <b>อิมํ</b> <span class=\"text-blue\">ตรัย</span> - อนฺตรวาสกํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> <span class=\"text-blue\">ตรัย</span> - อุตฺตราสงฺคํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> <span class=\"text-blue\">ตรัย</span> - สงฺฆาฏึ </div> <div class=\"vertical-item\"> <b>อิมํ</b> นั่ง - นิสีทนํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> นอน - ปจฺจตฺถรณํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> ฝน - วสฺสิกสาฏิกํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> ฝี - กณฺฑุปฺปฏิจฺฉาทึ </div> <div class=\"vertical-item\"> <b>อิมํ</b> หน้า - มุขปุญฺฉนโจฬํ </div> <div class=\"vertical-item\"> <b>อิมํ</b> โจฬ - ปริกฺขารโจฬํ </div> </div> </div> <!-- เหตุขาดอธิษฐาน 9 --> <div style=\"flex: 1;\"> <h3>เหตุขาดอธิษฐาน ๙</h3> <div class=\"vertical-list\" style=\"font-size: 6.5pt;\"> <div class=\"vertical-item\">1. ให้</div> <div class=\"vertical-item\">2. โจร</div> <div class=\"vertical-item\">3. มิตร</div> <div class=\"vertical-item\">4. เลว</div> <div class=\"vertical-item\">5. กาล</div> <div class=\"vertical-item\">6. กลับ</div> <div class=\"vertical-item\">7. ถอน</div> <div class=\"vertical-item\">8. สึก</div> <div class=\"vertical-item\">9. ทะลุ</div> </div> </div> </div>"
+    },
+    {
+     "type": "verse",
+     "html": "ปเทสคฺคหเณ หิ อสตฺถิ คเหตพฺพสฺส นิปฺปเทสตาว วิญฺญายติ ยถา “ทิกฺขิโต น ททาตี”ติ.",
+     "style": "font-size: 6.2pt; margin: 0.5mm 0; line-height: 1.3;"
+    },
+    {
+     "type": "html",
+     "html": "<div style=\"display: flex; gap: 1.5mm; margin-top: 1mm;\"> <!-- ธรรม 8 ประการ --> <div style=\"flex: 1.8;\"> <h3>ธรรม ๘ ประการ</h3> <div class=\"vertical-list\" style=\"font-size: 6.5pt;\"> <div class=\"vertical-item\"><b>1. กรณ์ (7)</b> - ซัก กะ ตัด เนา เย็บ ย้อม พินทุ</div> <div class=\"vertical-item\"><b>2. ถอน (3)</b> - สงฺฆาฏึ วา อุตฺตราสงฺคํ วา อนฺตราวสกํ</div> <div class=\"vertical-item\"><b>3. ฐาน (3)</b> - สงฺฆาฏึ วา อุตฺตราสงฺคํ วา อนฺตราวสกํ</div> <div class=\"vertical-item\"><b>4. กราน (3)</b> - สงฺฆาฏึ วา อุตฺตราสงฺคํ วา อนฺตราวสกํ</div> <div class=\"vertical-item\"><b>5. กา (8)</b> - หลีก เสร็จ ใจ เสีย ฟัง หวัง เขต พร้อม</div> <div class=\"vertical-item\"><b>6. โพธิ (2)</b> - อาวาส จีวร</div> <div class=\"vertical-item\"><b>7. เดาะ (8)</b> - หลีก เสร็จ ใจ เสีย ฟัง หวัง เขต พร้อม</div> <div class=\"vertical-item\"><b>8. สงฆ์ (5)</b> - ลา ครบ ฉัน เรก วร</div> </div> </div> <!-- จีวร 6 & ประมาณแห่งผ้า --> <div style=\"flex: 1;\"> <h3>จีวร ๖ ชนิด</h3> <div class=\"vertical-list\" style=\"font-size: 6.5pt;\"> <div class=\"vertical-item\">1. เปลือก</div> <div class=\"vertical-item\">2. ฝ้าย</div> <div class=\"vertical-item\">3. ไหม</div> <div class=\"vertical-item\">4. ขน</div> <div class=\"vertical-item\">5. ป่าน</div> <div class=\"vertical-item\">6. รวม</div> </div> <h3 style=\"margin-top: 1mm;\">ประมาณแห่งผ้า</h3> <div style=\"font-size: 6.3pt; color: #334155; line-height: 1.3; background: #f8fafc; padding: 0.5mm; border: 1px dotted var(--border); border-radius: 2px;\"> • เล็กกว่าสุคตจีวร<br/> • สุคตจีวร 9 × 6 = 6.75m × 4.5m </div> </div> </div>"
+    }
+   ],
+   "tags": [
+    "จีวร"
+   ]
+  },
+  {
+   "id": "c32",
+   "title": "คืบช่างไม้ & คืบพระสุคต",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "คืบช่างไม้ & คืบพระสุคต"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "คืบช่างไม้ปัจจุบัน"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1 คืบ</b> = 10 นิ้ว"
+      },
+      {
+       "html": "<b>2 คืบ (1 ศอก)</b> = 20 นิ้ว"
+      },
+      {
+       "html": "<b>1 ศอกครึ่ง </b> = 30 นิ้ว <span class=\"text-blue\">(75 ซม.)</span>"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "คืบพระสุคต"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>1 คืบสุคต (12 นิ้วสุคต)</b> = <span class=\"text-blue\">75 ซม.</span> <div class=\"pill-row\" style=\"margin-top: 0.5mm;\"> <span class=\"pill\">นะ</span> <span class=\"pill\">ฝี</span> <span class=\"pill\">ฝน</span> <span class=\"pill\">วร</span> <span class=\"pill\">กุฏิ</span> </div>"
+      },
+      {
+       "html": "<b>8 นิ้วสุคต</b> (ขาเตียง) - ผ้าฐานยาว 50 ซม."
+      },
+      {
+       "html": "<b>4 นิ้วสุคต</b> - ผ้าฐานกว้าง 25 ซม."
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "มาตรา"
+   ]
+  },
+  {
+   "id": "c33",
+   "title": "หมวดคาถาและปริภาษา",
+   "blocks": [
+    {
+     "type": "heading",
+     "level": "h2",
+     "html": "หมวดคาถาและปริภาษา"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "ปาราชิกกณฺฑ-อฏฺฐกถา คนฺถารมฺภกถา"
+    },
+    {
+     "type": "verse",
+     "html": "\"ตสฺมา หิ ยํ อฏฺฐกถาสุ วุตฺตํ,<br/> ตํ วชฺชยิตฺวาน ปมาทเลขํ,<br/> สพฺพมฺปิ สิกฺขาสุ สคารวานํ,<br/> ยสฺมา ปมาณํ อิธ ปณฺฑิตานํ.\""
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "วิมติวิโนทนีฏีกา (ทุติยภาค)"
+    },
+    {
+     "type": "verse",
+     "html": "“น หิ วินเย สพฺพตฺถ ยุตฺติ สกฺกา ญาตุํ พุทฺธโคจรตฺตาติ เวทิตพฺพํ.”"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "กงฺขาวิตรณี"
+    },
+    {
+     "type": "verse",
+     "html": "“ปาสาณนิมิตฺเต อโยคุฬมฺปิ ปาสาณสงฺขเมว คจฺฉติ.”"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เบื้องต้นพระศาสนา"
+    },
+    {
+     "type": "verse",
+     "html": "“โก จาทิ กุสลานํ ธมฺมานํ? สีลญฺจ สุวิสุทฺธํ, ทิฏฺฐิ จ อุชุกา.”"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "นกฺขตฺตชาตกํ (๔๙)"
+    },
+    {
+     "type": "verse",
+     "html": "“นกฺขตฺตํ ปฏิมาเนนฺตํ, อตฺโถ พาลํ อุปจฺจคา,<br/> อตฺโถ อตฺถสฺส นกฺขตฺตํ, กึ กริสฺสนฺติ ตารกาติ.”"
+    },
+    {
+     "type": "heading",
+     "level": "h3",
+     "html": "เรื่องยาก ๓ เรื่อง (ที่ต้องจำ)"
+    },
+    {
+     "type": "items",
+     "wrap": "div",
+     "items": [
+      {
+       "html": "<b>ในวินัย</b> – สีมา"
+      },
+      {
+       "html": "<b>ในจีวร</b> – กถิน"
+      },
+      {
+       "html": "<b>ในไวยากรณ์</b> – ลิงค์"
+      }
+     ]
+    }
+   ],
+   "tags": [
+    "บาลี"
+   ]
+  }
+ ]
+}
